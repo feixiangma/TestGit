@@ -1,0 +1,2899 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<WebScript v='30205'>
+	<Variables>
+	</Variables>
+	<nextScriptId>45</nextScriptId>
+	<Object>null</Object>
+	<dataSources>
+	</dataSources>
+	<Script v='3'>
+		<ver>14</ver>
+		<id>1</id>
+		<Summary v='3'>
+			<played>3</played>
+			<succeeded>3</succeeded>
+			<warnings>6</warnings>
+			<maxResponseTime>3891</maxResponseTime>
+			<averageResponseTime>1846</averageResponseTime>
+		</Summary>
+		<childCount>1</childCount>
+		<ChildItems>
+			<SuiteItem v='1'>
+				<ver>14</ver>
+				<id>4</id>
+				<Summary v='3'>
+					<played>3</played>
+					<succeeded>3</succeeded>
+					<warnings>6</warnings>
+					<maxResponseTime>3891</maxResponseTime>
+					<averageResponseTime>1846</averageResponseTime>
+				</Summary>
+				<childCount>1</childCount>
+				<ChildItems>
+					<TestItem v='3'>
+						<ver>14</ver>
+						<id>3</id>
+						<Summary v='3'>
+							<played>3</played>
+							<succeeded>3</succeeded>
+							<warnings>6</warnings>
+							<maxResponseTime>3891</maxResponseTime>
+							<averageResponseTime>1846</averageResponseTime>
+						</Summary>
+						<childCount>1</childCount>
+						<ChildItems>
+							<Step v='4'>
+								<ver>14</ver>
+								<id>2</id>
+								<Summary v='3'>
+									<played>3</played>
+									<succeeded>3</succeeded>
+									<warnings>6</warnings>
+									<maxResponseTime>3891</maxResponseTime>
+									<averageResponseTime>1846</averageResponseTime>
+								</Summary>
+								<childCount>6</childCount>
+								<ChildItems>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>7</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<warnings>2</warnings>
+											<maxResponseTime>3891</maxResponseTime>
+											<averageResponseTime>3891</averageResponseTime>
+										</Summary>
+										<childCount>2</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>12</id>
+												<Summary v='3'>
+													<played>1</played>
+													<succeeded>1</succeeded>
+													<warnings>2</warnings>
+													<maxResponseTime>3891</maxResponseTime>
+													<averageResponseTime>3891</averageResponseTime>
+												</Summary>
+												<childCount>1</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>9</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<warnings>2</warnings>
+															<maxResponseTime>3891</maxResponseTime>
+															<averageResponseTime>3891</averageResponseTime>
+														</Summary>
+														<childCount>2</childCount>
+														<ChildItems>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>10</id>
+																<description>无法获取未定义或 null 引用的属性“value” : line 724 char 7</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>11</id>
+																<description>无法获取未定义或 null 引用的属性“value” : line 724 char 7</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+														</ChildItems>
+														<timeMs>3891</timeMs>
+														<size>50172</size>
+														<encodedContent>false</encodedContent>
+														<content>
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+    &lt;meta property=&quot;wb:webmaster&quot; content=&quot;b2529195be552cae&quot; /&gt;
+    &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+    &lt;meta http-equiv=&quot;pragma&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
+    &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache, must-revalidate&quot;/&gt;
+    &lt;meta http-equiv=&quot;expires&quot; content=&quot;Wed, 26 Feb 1997 08:21:57 GMT&quot;/&gt;
+	&lt;!-- &lt;meta name=&quot;keywords&quot; content=&quot;閲戜俊锛岄噾淇＄綉锛岄噾淇¤储瀵岋紝閲戝厓瀹濓紝P2P鎶曡祫鐞嗚储锛岀綉缁滅悊璐紝鐞嗚储鏈嶅姟锛岀綉缁滆捶娆撅紝缃戠粶鎶曡祫骞冲彴&quot; /&gt; --&gt;
+	&lt;!-- &lt;meta name=&quot;description&quot; content=&quot;閲戜俊缃?棰嗚埅浜掕仈缃戦噾铻嶆爣鍑嗭紒娉ㄥ唽璧勬湰涓€浜垮厓锛屽浗瀹舵壒鍑嗕俊鐢ㄧ鐞嗗叕鍙革紝瓒呰繃300浜哄鎵瑰洟闃燂紝100鍏冭捣鎶曪紝澶╁ぉ鏈夋柊鏍囷紝棰勬湡骞村寲鏀剁泭鍙珮杈?3%锛岀涓夋柟璧勯噾鎵樼锛屽薄鑾峰ぇ濂栥€?/&gt; --&gt;
+	&lt;!-- &lt;title&gt;閲戜俊缃戝畼缃?瀹夊叏銆佸彲闈犵殑浜掕仈缃戠悊璐㈡姇璧?P2P缃戣捶鍊熸-绀剧闄㈤鎵笰绾ф湇鍔″钩鍙帮紒&lt;/title&gt; --&gt;
+    &lt;!-- &lt;meta name=&quot;keywords&quot; content=&quot;閲戜俊缃?閲戜俊缃戝畼缃戯紝閲戜俊閲戞湇锛屼簰鑱旂綉閲戣瀺骞冲彴锛屼簰鑱旂綉閲戣瀺浜у搧锛屼簰鑱旂綉閲戣瀺鍏徃 &quot;/&gt; --&gt;
+    &lt;!-- &lt;meta name=&quot;description&quot; content=&quot;閲戜俊缃戞槸閲戜俊閲戞湇鏃椾笅涓€绔欏紡浜掕仈缃戦噾铻嶅钩鍙?浜跨骇椋庨櫓鍑嗗閲戯紝鎺ュ叆鏀粯娓呯畻鍗忎細椋庨櫓绯荤粺锛岀敤浜掕仈缃戞妧鏈拰閲戣瀺鍒涙柊浣挎姇璧勪笌鍊熻捶鏇撮€忔槑銆佹洿楂樻晥.浼橀€変簰鑱旂綉閲戣瀺浜у搧:鏈堟弧閲戙€佸搴﹂噾銆侀噾鍏冨疂绛?100鍏冭捣鎶?1-12涓湀鍛ㄦ湡闅忓績閫夈€?/&gt; --&gt;   
+    &lt;!-- &lt;title&gt;閲戜俊缃戝畼缃?涓撲笟鐨勪簰鑱旂綉閲戣瀺淇℃伅鏈嶅姟骞冲彴,CFCA璁よ瘉鐨勪簰鑱旂綉閲戣瀺鍏徃&lt;/title&gt; --&gt;  	
+   	&lt;meta name=&quot;keywords&quot; content=&quot;閲戜俊缃?閲戜俊缃戝畼缃戯紝閲戜俊閲戞湇锛屼簰鑱旂綉閲戣瀺骞冲彴锛屼簰鑱旂綉閲戣瀺浜у搧锛屼簰鑱旂綉閲戣瀺鍏徃&quot;/&gt;
+   	&lt;meta name=&quot;description&quot; content=&quot;閲戜俊缃戞槸閲戜俊閲戞湇鏃椾笅涓€绔欏紡浜掕仈缃戦噾铻嶅钩鍙?鎺ュ叆鏀粯娓呯畻鍗忎細椋庨櫓绯荤粺锛岀敤浜掕仈缃戞妧鏈拰閲戣瀺鍒涙柊浣挎姇璧勪笌鍊熻捶鏇撮€忔槑銆佹洿楂樻晥.浼橀€変簰鑱旂綉閲戣瀺浜у搧:鏈堟弧閲戙€佸搴﹂噾銆侀噾鍏冨疂绛?100鍏冭捣鎶?1-12涓湀鍛ㄦ湡闅忓績閫夈€?/&gt;
+    &lt;title&gt;閲戜俊缃戝畼缃?涓撲笟鐨勪簰鑱旂綉閲戣瀺淇℃伅鏈嶅姟骞冲彴,浜掕仈缃戦噾铻嶅叕鍙?/title&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;/webPage/common/images/favicon.ico&quot; /&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/webPage/common/css/share.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/webPage/common/css/main.css&quot;/&gt;
+      &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/webPage/cunguan/common/css/reset.css&quot;/&gt;
+&lt;!-- &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/webPage/cunguan/common/css/style.css&quot;/&gt; --&gt;
+    &lt;link href=&quot;/webPage/ssl/css20140521/ingot.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/jquery-1.7.2.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/jquery.nivo.slider.pack.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/trafficStatistics.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/ssl/js/counter.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/WinMax.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/index/js/gold.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/countdown.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/index/js/scrolltext.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/webPage/cunguan/common/js/commonindex.js&quot;&gt;&lt;/script&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+		.activity-baner{ display: none; position: fixed; z-index: 100002; left: 50%; top: 50%;}
+		.activity-baner .banner-close{ display: block; width: 50px; height: 50px; background: url(/webPage/index/banner/activity-banner-close.png) no-repeat; position: absolute; right: -70px; top: 0px;}
+		.activity-baner .banner-close:hover{ background-position: -50px 0;}
+		
+		div{ margin: 0 auto;}
+	&lt;/style&gt;
+&lt;/head&gt;
+&lt;body style=&quot;background:#f2f2f2;&quot;&gt;
+&lt;!--椤靛ごstart--&gt;
+
+
+
+
+
+
+&lt;!-- 绁炵瓥鏁版嵁鍩嬬偣 --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/shence/shence.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--椤靛ごstart--&gt;
+&lt;a name=&quot;top&quot;&gt;&lt;input type=&quot;hidden&quot; class=&quot;urlPath&quot; value=&quot;&quot;/&gt;&lt;input type=&quot;hidden&quot; id=&quot;firstLogin&quot; value=&quot;0&quot;/&gt;&lt;/a&gt;
+&lt;div class=&quot;headBody&quot; id=&quot;headBody&quot;&gt;
+    &lt;div class=&quot;header&quot;&gt;
+
+    &lt;div class=&quot;mainBox clearfix&quot;&gt;
+        &lt;div class=&quot;head_l&quot;&gt;&lt;span&gt;瀹㈡湇鐢佃瘽锛?00-890-7777&lt;/span&gt;&lt;em&gt;&lt;/em&gt;&lt;span&gt;鍏虫敞鎴戜滑锛?/span&gt;&lt;a href=&quot;javascript:void(0);&quot; class=&quot;head-weixin&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://weibo.com/5041370017/profile?topnav=1&amp;amp;wvr=5&quot; target=&quot;_blank&quot; class=&quot;weibo&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+        &lt;div class=&quot;head_r&quot;&gt;&lt;!-- &lt;a href=&quot;/webPage/index/helpcenter.html&quot;&gt;甯姪涓績&lt;/a&gt; --&gt;
+       &lt;!--  &lt;a href=&quot;http://licai.jinxin99.cn/&quot;&gt;鐑棬璧勮&lt;/a&gt;&lt;em&gt;&lt;/em&gt; --&gt;
+        &lt;a href=&quot;/webPage/index/aboutus.html&quot; id=&quot;home_gywm_new&quot; class=&quot;top-nav&quot;&gt;鍏充簬鎴戜滑&lt;/a&gt;&lt;em&gt;&lt;/em&gt;
+        &lt;a href=&quot;/webPage/index/insurance.html&quot; id=&quot;insurance&quot; class=&quot;top-nav&quot;&gt;椋庢帶鎺柦&lt;/a&gt;&lt;em&gt;&lt;/em&gt;
+        &lt;div class=&quot;ewm-wrap&quot;&gt;
+                   &lt;a href=&quot;/webPage/index/phone_jinxin.html&quot; class=&quot;phone_jinxin&quot; style=&quot;margin-right:15px;&quot;&gt;&lt;i&gt;&lt;/i&gt;鎵嬫満瀹㈡埛绔? &lt;/a&gt;
+                     &lt;div class=&quot;ewm-phone&quot;&gt;
+                        &lt;div class=&quot;ewm-phone-inner&quot;&gt;
+                          &lt;span class=&quot;arrow-top&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
+                          &lt;div class=&quot;phone-left&quot;&gt;
+                              &lt;dl&gt;
+                                  &lt;dt&gt;&lt;a href=&quot;/webPage/phonedaihu/phone_daihu.html&quot;&gt;&lt;img src=&quot;/webPage/common/images/icon-daihu.png&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/dt&gt;
+                                  &lt;dd&gt;
+                                      &lt;p&gt;璐蜂箮鍊熸绔疉PP&lt;/p&gt;
+                                      &lt;span&gt;鎵嬫満鏈夎捶涔?鍊熼挶蹇竴姝?/span&gt;
+                                  &lt;/dd&gt;
+                              &lt;/dl&gt;
+                              &lt;div class=&quot;ewm&quot;&gt;&lt;img src=&quot;/webPage/common/images/ewm-daihu.png&quot; width=&quot;98&quot; height=&quot;98&quot;/&gt;&lt;/div&gt;
+                          &lt;/div&gt;
+                          &lt;div class=&quot;phone-right&quot;&gt;
+                              &lt;dl&gt;
+                                  &lt;dt&gt;&lt;a href=&quot;/webPage/index/phone_jinxin.html&quot;&gt;&lt;img src=&quot;/webPage/common/images/icon-jinxin.png&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/dt&gt;
+                                  &lt;dd&gt;
+                                      &lt;p&gt;閲戜俊瀹?APP&lt;/p&gt;
+                                      &lt;span&gt;閫夐噾淇?璐㈡斁蹇?/span&gt;
+                                  &lt;/dd&gt;
+                              &lt;/dl&gt;
+                              &lt;div class=&quot;ewm&quot;&gt;&lt;img src=&quot;/webPage/common/images/phone_jinxin_ewm.png&quot; width=&quot;98&quot; height=&quot;98&quot; /&gt;&lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                  &lt;/div&gt;
+    			&lt;/div&gt;
+    	&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;headCnt clearfix&quot;&gt;
+        &lt;div class=&quot;logo&quot;&gt;&lt;a href=&quot;/&quot;&gt;&lt;img src=&quot;/webPage/cunguan/common/images/logo.png&quot; width=&quot;270px&quot; height=&quot;83px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+        &lt;ul class=&quot;main-nav&quot;&gt;
+            &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;jinxin&quot; href=&quot;/&quot;&gt;棣栭〉&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;&lt;!--current涓哄綋鍓嶇姸鎬?-&gt;
+            &lt;li&gt;
+            	&lt;h2&gt;&lt;a id=&quot;goldlist&quot; href=&quot;/webPage/invest/gold_standard_list.html&quot;&gt;閲戣鍒?i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;!--             	&lt;div class=&quot;menu-drop&quot;&gt;
+	               &lt;a href=&quot;/webPage/invest/wytz.html&quot;&gt;浼橀€夌被浜у搧&lt;/a&gt;
+           	       &lt;a href=&quot;/webPage/invest/jiaxibao.html&quot;&gt;鍔犳伅瀹濅骇鍝?/a&gt;
+           	       &lt;a href=&quot;/webPage/invest/gold_standard_list.html&quot; class=&quot;sb-nav&quot;&gt;閲戣鍒掍骇鍝?span class=&quot;custody&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+           	       &lt;a id=&quot;sbzq&quot; href=&quot;/webPage/invest/standard_list.html&quot; class=&quot;sb-nav&quot;&gt;鏁ｆ爣涓撳尯&lt;span class=&quot;custody&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+	            &lt;/div&gt; --&gt;
+            &lt;/li&gt;
+             &lt;li&gt;
+            	&lt;h2&gt;&lt;a id=&quot;xinlist&quot; href=&quot;/webPage/invest/xin_standard_list.html&quot;&gt;淇¤鍒?i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+            	&lt;h2&gt;&lt;a id=&quot;sbzq&quot; href=&quot;/webPage/invest/standard_list.html&quot;&gt;鏁ｆ爣涓撳尯&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+            	&lt;h2&gt;&lt;a id=&quot;wytz&quot; href=&quot;/webPage/invest/wytz.html&quot;&gt;浼橀€夎鍒?i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+            &lt;/li&gt;
+            &lt;!-- &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;lend_apply&quot; href=&quot;/webPage/loan/lend_apply.html&quot;&gt;鎴戣鍊熸&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt; --&gt;
+            &lt;!-- &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;sbzq&quot; href=&quot;/webPage/invest/standard_list.html&quot;&gt;鏁ｆ爣涓撳尯&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;span class=&quot;custody&quot;&gt;&lt;/span&gt;&lt;/li&gt; --&gt; 
+            &lt;li&gt;&lt;h2&gt;&lt;a id = &quot;daihu&quot; href=&quot;/webPage/cunguan/daihuRegister/daihu.html&quot;&gt;鎴戣鍊熸&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+&lt;!--             &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;borrowers&quot; href=&quot;/webPage/borrower/borrowers.html&quot;&gt;鍊熸浜轰俊鎭?i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+ --&gt;         &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;activeArea&quot; href=&quot;/webPage/activeArea/activeArea.html&quot;&gt;娲诲姩涓撳尯&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;information&quot; href=&quot;/webPage/newInfoDisclosure/organ-info1.html&quot;&gt;淇℃伅鎶湶&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;learnrisk&quot; href=&quot;/webPage/risk/risk-edu1.html&quot;&gt;椋庨櫓鏁欒偛&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+&lt;!--             &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;insurance&quot; href=&quot;/webPage/index/insurance.html&quot;&gt;瀹夊叏璁″垝&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;h2&gt;&lt;a id=&quot;home_gywm_new&quot; href=&quot;/webPage/index/aboutus.html&quot;&gt;鍏充簬鎴戜滑&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt; --&gt;
+            &lt;!--  &lt;li&gt;&lt;h2&gt;&lt;a href=&quot;http://bbs.jinxin99.cn/?referer_from=jinxin&quot; target=&quot;_blank&quot;&gt;閲戜俊璁哄潧&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt; --&gt;
+            &lt;!-- &lt;li&gt;&lt;h2&gt;&lt;a href=&quot;http://licai.jinxin99.cn/&quot; target=&quot;_blank&quot;&gt;椋庨櫓鏁欒偛&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;  --&gt;
+        &lt;/ul&gt;
+        &lt;div class=&quot;login-right&quot;&gt;
+            
+                &lt;!--鏈櫥褰昩egin--&gt;
+                &lt;div class=&quot;no-login&quot;&gt;&lt;a href=&quot;/webPage/ssl/Register.html&quot; class=&quot;btn-reg&quot;&gt;娉ㄥ唽&lt;/a&gt;&lt;a href=&quot;/webPage/ssl/login.html&quot; class=&quot;btn-login&quot;&gt;鐧诲綍&lt;/a&gt;&lt;/div&gt;
+                &lt;!--鏈櫥褰昬nd--&gt;
+            
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--椤靛ごend--&gt;
+&lt;div id=&quot;dialog&quot; class=&quot;dialog-overlay&quot;&gt;&lt;/div&gt;&lt;!--鍏ㄥ眬閬僵灞?-&gt;
+
+&lt;!--浜岀淮鐮佸脊鍑哄眰start--&gt;
+&lt;div id=&quot;ewm&quot; class=&quot;ewm_layer&quot; style=&quot;display:none;&quot;&gt;
+    &lt;a href=&quot;javascript:void(0)&quot;  class=&quot;close&quot;&gt;&lt;/a&gt;
+    &lt;div class=&quot;ewm_weixin&quot;&gt;
+        &lt;h3&gt;閲戜俊缃戞湇鍔″彿&lt;/h3&gt;
+        &lt;h4&gt;鏇村鏈嶅姟璇峰叧娉ㄩ噾淇＄綉鏈嶅姟鍙?/h4&gt;
+        &lt;div class=&quot;ewm&quot;&gt;&lt;img src=&quot;/webPage/common/images/ewm_fwh.jpg&quot; alt=&quot;閲戜俊缃戞湇鍔″彿&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;ewm_weixin&quot;&gt;
+        &lt;h3&gt;閲戜俊缃戣闃呭彿&lt;/h3&gt;
+        &lt;h4&gt;鑾峰彇閲戜俊缃戞渶鏂拌祫璁?/h4&gt;
+        &lt;div class=&quot;ewm&quot;&gt;&lt;img src=&quot;/webPage/common/images/ewm_dyh.jpg&quot; alt=&quot;閲戜俊缃戣闃呭彿&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;//棣栭〉js
+$(function(){
+//瀹㈡埛绔笅杞藉叆鍙?
+	  //鎵嬫満瀹㈡埛绔笅鎷夊眰
+	  $(&quot;.phone-ewm&quot;).hover(function(){
+	    $(this).addClass(&apos;phone-ewm-hover&apos;);
+	  },function(){
+	    $(this).removeClass(&apos;phone-ewm-hover&apos;);
+	  });
+
+	   var $ewmHover = $(&quot;.ewm-wrap&quot;);
+	   $ewmHover.hover(function(){
+	     $(this).children(&quot;.ewm-phone&quot;).stop(false,true).fadeIn();
+	   },function(){
+	     $(this).children(&quot;.ewm-phone&quot;).stop(false,true).hide();
+	   });
+});
+&lt;/script&gt;
+&lt;!--椤靛ごend--&gt;
+&lt;!--杞挱鍥緎tart--&gt;
+&lt;div class=&quot;flashImg&quot;&gt;
+    &lt;ul class=&quot;slider&quot; id=&quot;slider&quot;&gt;&lt;/ul&gt;
+    &lt;div class=&quot;registerBody&quot;&gt;
+        &lt;div class=&quot;register-bg&quot;&gt;&lt;/div&gt;
+            
+            
+                &lt;div class=&quot;register&quot;&gt;
+                    &lt;h3&gt;閲戜俊缃戝巻鍙插勾鍖栨敹鐩婄巼&lt;/h3&gt;
+                    &lt;h4&gt;&lt;span id=&quot;avg&quot;&gt;12.70&lt;/span&gt;%&lt;/h4&gt;
+                    &lt;div class=&quot;bn_register&quot;&gt;&lt;a href=&quot;/webPage/ssl/Register.html&quot; class=&quot;btn-1&quot;&gt;鍏嶈垂娉ㄥ唽&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class=&quot;login&quot;&gt;鏈夎处鍙? &lt;a href=&quot;/webPage/ssl/login.html&quot;&gt;绔嬪嵆鐧诲綍&lt;/a&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--杞挱鍥緀nd--&gt;
+&lt;!--娲诲姩鎺ㄥ箍banner--&gt;
+&lt;!-- &lt;div class=&quot;activity-baner&quot; style=&quot;margin-left: -450px; margin-top: -257.5px; display: none;&quot;&gt;
+  &lt;a href=&quot;javascript:void(0)&quot; class=&quot;banner-close&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;/webPage/activity/may182017.html&quot;&gt;&lt;img src=&quot;/webPage/common/images/banner-518.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt; --&gt;
+
+&lt;!--瀛樼涓婄嚎鎻愮ずbegin--&gt;
+&lt;div class=&quot;activity-baner cunguan-msg&quot; style=&quot;display:none;&quot;&gt;
+  &lt;a href=&quot;javascript:void(0)&quot; class=&quot;banner-close&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;/webPage/invest/standard_list.html&quot; class=&quot;go-sanbiao&quot;&gt;&lt;/a&gt;
+  &lt;img src=&quot;/webPage/index/banner/cunguan.png&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;!--鍦ｈ癁鑺傚紑灞忓姩鐢?-&gt;
+&lt;!-- &lt;div class=&quot;christmas-layer&quot;&gt;
+  &lt;a href=&quot;javascript:void(0)&quot; class=&quot;christmas-close&quot;&gt;&lt;/a&gt;
+  &lt;img src=&quot;/webPage/common/images/christmas.gif&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt; --&gt;
+&lt;!--鐢熸棩绾㈠寘--&gt;
+&lt;div class=&quot;happy-to-you&quot; style=&quot;display:none&quot;&gt;
+    &lt;a href=&quot;javascript:void(0)&quot; class=&quot;happy-close&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;  id=&quot;btn_sendRed&quot;&gt;&lt;img src=&quot;/webPage/common/images/happy_to_you.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;birthday-redpack-layer birthday-redpack-layer-group&quot;  id=&quot;200Red&quot;&gt;
+    &lt;div class=&quot;inner clearfix&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;鎭枩鎮ㄩ鍙栧埌200鍏冧笓灞炵敓鏃ョ鍒?/div&gt;
+          &lt;div class=&quot;birthday-gift-list&quot;&gt;
+               &lt;ul class=&quot;list list1 clearfix&quot;&gt;
+                   &lt;li&gt;
+                       &lt;div class=&quot;money&quot;&gt;&lt;span class=&quot;unit&quot;&gt;锟?/span&gt;30&lt;/div&gt;
+                       &lt;div class=&quot;text&quot;&gt;30鍏冨嚭鍊熺孩鍖咃紙鍑哄€熸椂浣跨敤锛?br&gt;鏈夋晥鏈燂細棰嗗彇涔嬫棩璧?0澶╁唴&lt;/div&gt;
+                   &lt;/li&gt;
+                   &lt;li&gt;
+                       &lt;div class=&quot;money&quot;&gt;&lt;span class=&quot;unit&quot;&gt;锟?/span&gt;70&lt;/div&gt;
+                       &lt;div class=&quot;text&quot;&gt;70鍏冨嚭鍊熺孩鍖咃紙鍑哄€熸椂浣跨敤锛?br&gt;鏈夋晥鏈燂細棰嗗彇涔嬫棩璧?0澶╁唴&lt;/div&gt;
+                   &lt;/li&gt;
+                   &lt;li&gt;
+                       &lt;div class=&quot;money&quot;&gt;&lt;span class=&quot;unit&quot;&gt;锟?/span&gt;100&lt;/div&gt;
+                       &lt;div class=&quot;text&quot;&gt;100鍏冨嚭鍊熺孩鍖咃紙鍑哄€熸椂浣跨敤锛?br&gt;鏈夋晥鏈燂細棰嗗彇涔嬫棩璧?0澶╁唴&lt;/div&gt;
+                   &lt;/li&gt;
+               &lt;/ul&gt;
+          &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;btns&quot;&gt;
+         &lt;a href=&quot;/webPage/invest/wytz.html&quot; class=&quot;btn use-btn&quot;&gt;绔嬪嵆浣跨敤&lt;/a&gt;&lt;a href=&quot;javascript:;&quot;  class=&quot;btn not-use-btn&quot;&gt;鏆備笉浣跨敤&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt; 
+&lt;!--椋庨櫓娴嬭瘎寮瑰眰 begin--&gt;
+	&lt;div class=&quot;riskDialog&quot;&gt;&lt;/div&gt;
+	&lt;div class=&quot;risk-layer&quot; style=&quot;display: none&quot;  id=&quot;togetScore&quot;&gt;
+		&lt;p&gt;鍑哄€熷墠璇峰厛杩涜椋庨櫓璇勬祴&lt;/p&gt;
+		&lt;a href=&quot;javascript:void(0)&quot;  id=&quot;toStart&quot;&gt;寮€濮嬭瘎娴?/a&gt; 
+		&lt;a class=&quot;layer-close&quot;   id=&quot;close&quot;   href=&quot;javascript:void(0)&quot;&gt;鍏抽棴&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;risk-layer level-low&quot;  id=&quot;risk-layer&quot;  style=&quot;display: none&quot;&gt;
+		&lt;p&gt;
+			鎮ㄧ殑椋庨櫓绛夌骇杈冧綆锛岀偣鍑烩€滅‘璁も€?br&gt;鏌ョ湅鐩墠椋庨櫓绛夌骇鍙婇€傚悎鍑哄€熺殑浜у搧
+		&lt;/p&gt;
+		&lt;a href=&quot;javascript:void(0)&quot;  id=&quot;confirm&quot;&gt;纭&lt;/a&gt; 
+		&lt;a class=&quot;layer-close&quot;  id=&quot;riskClose&quot; href=&quot;javascript:void(0)&quot;&gt;鍏抽棴&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;risk-layer money-limit&quot;   id=&quot;lendMoney&quot;  style=&quot;display: none&quot;&gt;
+		&lt;p  id=&quot;limitMoney&quot;&gt;鎮ㄧ殑鍑哄€熼噾棰濅笉寰楀ぇ浜巟xxx涓囧厓&lt;/p&gt;
+		&lt;a class=&quot;layer-close&quot; href=&quot;javascript:void(0)&quot;  id=&quot;toclose&quot; &gt;鍏抽棴&lt;/a&gt;
+	&lt;/div&gt;
+&lt;!--椋庨櫓娴嬭瘎寮瑰眰 end--&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+.cunguan-msg .banner-close,.cunguan-msg .banner-close:hover{ width: 33px; height: 33px; background: url(/webPage/index/banner/cunguan-close.png) no-repeat 0 0; right:0 ; top: 200px;}
+.cunguan-msg .go-sanbiao{ display: block; width: 254px; height: 70px; position: absolute; left: 327px; top: 547px;}
+
+/* .christmas-layer { display: none ;position: fixed; z-index: 100002; left: 50%; top: 50%; width: 500px; height: 500px; margin: -250px 0 0 -250px }
+.christmas-layer .christmas-close { width: 28px; height: 28px; position: absolute; right:-20px; top: 0; background: url(&quot;/webPage/common/images/christmas-close.png&quot;) no-repeat;} */
+
+.happy-to-you { position: fixed; z-index: 100002; left: 50%; top: 50%; width: 400px; height: 440px; margin: -220px 0 0 -200px }
+.happy-to-you .happy-close { width: 23px; height: 77px;   position: absolute; right:0px; top: -60px; background: url(&quot;/webPage/common/images/happy_close.png&quot;) no-repeat;}
+.happy-to-you img { position: relative;}
+
+
+&lt;/style&gt;
+&lt;!--瀛樼涓婄嚎鎻愮ずend--&gt;
+
+
+&lt;!-- &lt;div class=&quot;index-spring&quot; style=&quot;display: none;&quot;&gt;
+     &lt;a href=&quot;javascript:;&quot; class=&quot;close&quot;&gt;&lt;/a&gt;
+     &lt;a href=&quot;/webPage/activity/threeSpring.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/webPage/common/images/welcome_layer.png&quot; width=&quot;740&quot; height=&quot;573&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt; --&gt;
+
+&lt;!--娲诲姩鎺ㄥ箍妯℃澘banner--&gt;
+&lt;!-- &lt;div class=&quot;activity-baner&quot;&gt;
+  &lt;a href=&quot;javascript:void(0)&quot; class=&quot;banner-close&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;/webPage/activity/crazy818.html&quot;&gt;&lt;img src=&quot;/webPage/index/banner/banner-818.png&quot; alt=&quot;&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt; --&gt;
+&lt;!--娲诲姩鎺ㄥ箍妯℃澘banner--&gt;
+
+&lt;!--娲诲姩鎺ㄥ箍banner--&gt;
+
+
+&lt;!--娲诲姩涓撳尯寮圭獥start--&gt; 
+&lt;!--  &lt;div class=&quot;toy&quot;&gt; 
+	&lt;a class=&quot;close&quot;&gt;&lt;/a&gt; 
+	&lt;a href=&quot;/webPage/activeArea/activeArea.html&quot;&gt;&lt;div class=&quot;toy-baby&quot;&gt;&lt;/div&gt; 
+	&lt;div class=&quot;toy-text&quot;&gt;&lt;/div&gt;&lt;/a&gt; 
+&lt;/div&gt;   --&gt;
+&lt;!--娲诲姩涓撳尯寮圭獥end--&gt; 
+
+
+&lt;!--鍝佺墝瀹ｄ紶begin--&gt;
+&lt;div class=&quot;brand-promotion&quot;&gt;
+    &lt;div class=&quot;brand-up&quot; id=&quot;brand-up&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&quot;mainBox&quot;&gt;
+&lt;!--     &lt;input type=&quot;button&quot; id=&quot;buttontest&quot; value=&quot;寮圭獥鏃堕棿娓呴櫎&quot;/&gt; --&gt;
+        &lt;div class=&quot;brand-left&quot;&gt;
+            &lt;ul&gt;
+                &lt;li class=&quot;brand-1&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;h3&gt;閲戜俊瀹炲姏&lt;/h3&gt;&lt;p&gt;浜跨骇娉ㄥ唽璧勬湰&lt;br /&gt;鍗冧竾鎶€鏈姇鍏?/p&gt;&lt;/li&gt;
+                &lt;li class=&quot;brand-2&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;h3&gt;椋庢帶涓ヨ嫑&lt;/h3&gt;&lt;p&gt;29閬撻鎺у伐搴?br /&gt;50椤逛俊鐢ㄥ鏍?/p&gt;&lt;/li&gt;
+                &lt;li class=&quot;brand-3&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;h3&gt;鍑哄€熺渷蹇?/h3&gt;&lt;p&gt;璧勯噾瀹夊叏鏈哄埗&lt;br /&gt;CFCA瀹夊叏璁よ瘉&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;jinxin-data&quot;&gt;
+            &lt;h3&gt;骞冲彴鐢ㄦ埛鏁?/h3&gt;
+            &lt;div class=&quot;data&quot;&gt;&lt;span id=&quot;hzxx_ljrs&quot;&gt;0&lt;/span&gt;浣?/div&gt;
+            &lt;div class=&quot;line&quot;&gt;&lt;/div&gt;
+            &lt;h3&gt;绱鎴愪氦棰?/h3&gt;
+            &lt;div class=&quot;data&quot;&gt;&lt;span id=&quot;hzxx_ljje&quot;&gt;0.00&lt;/span&gt;鍏?/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;productArea&quot;&gt;&lt;/div&gt;
+&lt;!--鍝佺墝瀹ｄ紶end--&gt;
+&lt;div class=&quot;media-section&quot;&gt;
+    &lt;div class=&quot;section-inner&quot;&gt;
+        &lt;div class=&quot;clearfix&quot; id=&quot;mtbdList&quot;&gt;
+        &lt;/div&gt;
+        &lt;!--搴曢儴鍝佺墝瀹ｄ紶begin--&gt;
+        &lt;div class=&quot;brand-section&quot;&gt;
+            &lt;ul class=&quot;clearfix&quot;&gt;
+                &lt;li&gt;
+                    &lt;i class=&quot;icon-1&quot;&gt;&lt;/i&gt;
+                    &lt;h3&gt;浼樿川鍊熸&lt;/h3&gt;
+                    &lt;p&gt;涓ヨ嫑椋庢帶锛屽閲嶅鏍?/p&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;i class=&quot;icon-2&quot;&gt;&lt;/i&gt;
+                    &lt;h3&gt;娆℃棩璁℃伅&lt;/h3&gt;
+                    &lt;p&gt;闂數鎴愪氦锛岃皝姣旀垜蹇?/p&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;i class=&quot;icon-3&quot;&gt;&lt;/i&gt;
+                    &lt;h3&gt;鍏ㄥ勾鏃犱紤&lt;/h3&gt;
+                    &lt;p&gt;澶╁ぉ鍙姇锛屾案涓嶆墦鐑?/p&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;i class=&quot;icon-4&quot;&gt;&lt;/i&gt;
+                    &lt;h3&gt;鐭ュ績鎵樹粯&lt;/h3&gt;
+                    &lt;p&gt;涓囧悕鐢ㄦ埛锛屼竴璺悓琛?/p&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;i class=&quot;icon-5&quot;&gt;&lt;/i&gt;
+                    &lt;h3&gt;鎶€鏈繚闅?/h3&gt;
+                    &lt;p&gt;鍗冧竾鎶曞叆锛屼笓娉ㄧ爺鍙?/p&gt;
+                &lt;/li&gt;
+&lt;!--                 &lt;li&gt; --&gt;
+&lt;!--                     &lt;i class=&quot;icon-6&quot;&gt;&lt;/i&gt; --&gt;
+&lt;!--                     &lt;h3&gt;璧勯噾瀹夊叏&lt;/h3&gt; --&gt;
+&lt;!--                     &lt;p&gt;鍗冧竾绾ч闄╁噯澶囬噾&lt;/p&gt; --&gt;
+&lt;!--                 &lt;/li&gt; --&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!--搴曢儴鍝佺墝瀹ｄ紶end--&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--鍚堜綔鏈烘瀯begin--&gt;
+&lt;div class=&quot;partners-seciton&quot;&gt;
+    &lt;div class=&quot;mainBox clearfix&quot;&gt;
+        &lt;div class=&quot;partners-tit&quot;&gt;鍚堜綔鏈烘瀯&lt;/div&gt;
+        &lt;div class=&quot;partners-img&quot;&gt;
+            &lt;div class=&quot;LeftBotton&quot; onmousedown=&quot;ISL_GoUp()&quot; onmouseup=&quot;ISL_StopUp()&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;pic-cnt&quot; id=&quot;ISL_Cont&quot;&gt;
+                &lt;div class=&quot;pic-wap&quot;&gt;
+                    &lt;div id=&quot;List1&quot;&gt;
+                        &lt;!-- 鍥剧墖鍒楄〃 begin --&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;淇″拰璐㈠瘜&quot; href=&quot;http://www.cecy.org.cn/fqz/renzheng.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_18.jpg&quot;  /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;!--                         &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;棰嗗厛鐨勭數瀛愭敮浠樻彁渚涘晢&quot; href=&quot;http://www.chinabank.com.cn/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_2.jpg&quot;  /&gt;&lt;/a&gt;&lt;/div&gt; --&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;閲戣瀺瀹夊叏璁よ瘉鏉冨▉鏈烘瀯&quot;  href=&quot;http://webverify.cfca.com.cn/WebVerify/webVerifyServlet?domain=www.jinxin99.cn&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_1.jpg&quot;  /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;涓撲笟鐨勭綉缁滃畨鍏ㄤ笓瀹? href=&quot;http://cn.norton.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_5.jpg&quot;  /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;棰嗗厛鐨勮瘹淇′俊鎭湇鍔″晢&quot; href=&quot;http://q.id5.cn/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_4.jpg&quot;  /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;IBM&quot; href=&quot;http://www.ibm.com/cn/zh/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_6.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_11.jpg&quot;  /&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;NSFOCUS&quot; href=&quot;http://www.nsfocus.com.cn/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_12.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;CISCO&quot; href=&quot;http://www.cisco.com/web/CN/index.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_13.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;杩炶繛鏀粯&quot; href=&quot;http://www.lianlianpay.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_14.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;瀹濅粯&quot; href=&quot;https://www.baofoo.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_16.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;div class=&quot;pic&quot;&gt;&lt;a title=&quot;瀵屽弸&quot; href=&quot;http://pay.fuiou.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/webPage/common/images/logo_cooperate_17.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+                        &lt;!-- 鍥剧墖鍒楄〃 end --&gt;
+                    &lt;/div&gt;
+                    &lt;div id=&quot;List2&quot;&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;RightBotton&quot; onmousedown=&quot;ISL_GoDown()&quot; onmouseup=&quot;ISL_StopDown()&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--鍚堜綔鏈烘瀯end--&gt;
+&lt;!--椤靛熬start--&gt;
+
+
+
+&lt;div class=&quot;footer&quot;&gt;&lt;!--椤佃剼begin--&gt;
+  &lt;div class=&quot;friendship-link&quot;&gt;
+    &lt;div class=&quot;mainBox clearfix&quot;&gt;
+      &lt;div class=&quot;friendship&quot;&gt;鍙嬫儏閾炬帴&lt;/div&gt;
+      &lt;div class=&quot;links-list&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.bjp2p.com.cn/info/tousu&quot; target=&quot;_blank&quot;&gt;杩濇硶杩濊琛屼负鎶曡瘔&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://iof.hexun.com/&quot; target=&quot;_blank&quot;&gt;鍜岃缃戦噾&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.p2peye.com/ &quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;缃戣捶澶╃溂&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.wdzj.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;缃戣捶涔嬪&lt;/a&gt;&lt;/li&gt;
+       &lt;!--    &lt;li&gt;&lt;a href=&quot;http://www.creditharmony.cn/ &quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;淇″拰&lt;/a&gt;&lt;/li&gt; --&gt;
+          &lt;li&gt;&lt;a href=&quot;http://p2p.hexun.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;鍜岃P2P&lt;/a&gt;&lt;/li&gt;
+          
+          &lt;!-- &lt;li&gt;&lt;a href=&quot;http://www.wangdaicaifu.com/ &quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;缃戣捶璐㈠瘜&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.weicaifu.com &quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;寰储瀵岀悊璐?/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.jnlc.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;閲戠墰鐞嗚储缃?/a&gt;&lt;/li&gt; --&gt;
+          
+          &lt;li&gt;&lt;a href=&quot;http://finance.caijing.com.cn/index.html&quot; target=&quot;_blank&quot;&gt;璐㈢粡缃?/a&gt;&lt;/li&gt;
+          
+          &lt;!-- &lt;li&gt;&lt;a href=&quot;http://bank.jrj.com.cn/&quot; target=&quot;_blank&quot;&gt;閲戣瀺鐣?/a&gt;&lt;/li&gt; --&gt;
+          
+          &lt;li&gt;&lt;a href=&quot;http://www.rong360.com/beijing/&quot; target=&quot;_blank&quot;&gt;鍖椾含璐锋&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://qhkh.cofool.com/&quot; target=&quot;_blank&quot;&gt;鏈熻揣寮€鎴?/a&gt;&lt;/li&gt;
+         &lt;!--  &lt;li&gt;&lt;a href=&quot;http://www.tou18.cn/&quot; target=&quot;_blank&quot;&gt;浠婃棩鑲″競琛屾儏&lt;/a&gt;&lt;/li&gt; --&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.baobao18.com&quot; target=&quot;_blank&quot;&gt;淇濋櫓鍩硅&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://licai.jinxin99.cn&quot; target=&quot;_blank&quot;&gt;鐞嗚储璧勮&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;!-- &lt;div class=&quot;links-down&quot; id=&quot;links-down&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt; --&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;mainBox&quot;&gt;
+    &lt;div class=&quot;homeWap&quot;&gt;
+      &lt;div class=&quot;footer-section clearfix&quot;&gt;
+        &lt;div class=&quot;footer-links&quot;&gt;
+          &lt;h3&gt;鍏充簬閲戜俊&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/aboutus.html&quot;&gt;鍏充簬鎴戜滑&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/media.html&quot; rel=&quot;nofollow&quot;&gt;濯掍綋鎶ラ亾&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/companydynamic.html&quot; rel=&quot;nofollow&quot;&gt;瀹樻柟鍏憡&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;footer-links&quot;&gt;
+          &lt;h3&gt;鏂版墜甯姪&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/yindao.html&quot; rel=&quot;nofollow&quot;&gt;鏂版墜鎸囧紩&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/invest/wytz.html&quot;&gt;浜у搧浠嬬粛&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/problem.html&quot;&gt;甯歌闂&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;footer-links&quot;&gt;
+          &lt;h3&gt;骞冲彴瀹夊叏&lt;/h3&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/insurance.html&quot; rel=&quot;nofollow&quot;&gt;瀹夊叏璁″垝&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/insurance.html#Privacy&quot; rel=&quot;nofollow&quot;&gt;闅愮淇濇姢&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/webPage/index/insurance.html#firstpane&quot; rel=&quot;nofollow&quot;&gt;鏀跨瓥娉曡&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;footer-contactus&quot;&gt;
+          &lt;h3&gt;鑱旂郴鎴戜滑&lt;/h3&gt;
+          &lt;p&gt;宸ヤ綔鏃堕棿锛?鍛ㄤ竴鑷冲懆鏃?:00 - 21:00&lt;/p&gt;
+          &lt;p class=&quot;tel&quot;&gt;400-890-7777&lt;/p&gt;
+          &lt;p&gt;瀹㈡湇閭锛?a style=&quot;cursor:pointer;&quot; onclick=&quot;location.href=&apos;mailto:kefu@gtriches.com&apos;&quot;&gt;kefu@gtriches.com&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;footer-ewm&quot;&gt;
+          &lt;img src=&quot;/webPage/common/images/ewm_dyh.jpg&quot; alt=&quot;閲戜俊缃戣闃呭彿&quot; /&gt;
+          &lt;p&gt;閲戜俊缃戣闃呭彿&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;footer-ewm&quot;&gt;
+          &lt;img src=&quot;/webPage/common/images/ewm_fwh.jpg&quot; alt=&quot;閲戜俊缃戞湇鍔″彿&quot; /&gt;
+          &lt;p&gt;閲戜俊缃戞湇鍔″彿&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;copyright&quot;&gt;鐗堟潈鎵€鏈?漏2013-2018 閲戜俊閲戣瀺淇℃伅鏈嶅姟锛堝寳浜級鏈夐檺鍏徃   浜琁CP澶?4006697鍙?1   |   &lt;img src=&quot;/webPage/common/images/jinghui.png&quot; alt=&quot;浜叕缃戝畨澶? /&gt;浜叕缃戝畨澶?1010802021847    &lt;/div&gt;
+      &lt;div class=&quot;certification-body&quot;&gt;
+        &lt;a href=&quot;http://www.itrust.org.cn/home/index/wx_certifi/wm/WX2017012201.html?from=singlemessage&amp;isappinstalled=1&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-2&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://www.315online.com.cn/member/315140023.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-3&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;amp;dn=www.jinxin99.cn&amp;amp;lang=zh_cn&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-4&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://webverify.cfca.com.cn/WebVerify/webVerifyServlet?domain=www.jinxin99.cn&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-5&quot;&gt;&lt;/a&gt;
+        &lt;a id=&quot;___szfw_logo___&quot; href=&quot;https://search.szfw.org/cert/l/CX20140402003715003756&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-6&quot;&gt;&lt;/a&gt;
+        &lt;a tabindex=&quot;-1&quot; id=&quot;kx_verify&quot; href=&quot;https://ss.knet.cn/verifyseal.dll?sn=e14040411010847842mn6a000000&amp;amp;ct=df&amp;amp;a=1&quot; onclick=&quot;this.href=this.href+&apos;&amp;amp;pa=&apos;+new Date().getTime()&quot; target=&quot;_blank&quot; kx_type=&quot;鍥炬爣寮? rel=&quot;nofollow&quot; class=&quot;certification-7&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://www.anquan.org/authenticate/cert/?site=www.jinxin99.cn&amp;amp;at=realname&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-8&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://www.itrust.org.cn/home/index/satification_certificate/wm/MY2018032101.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-9&quot;&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://www.itrust.org.cn/home/index/itrust_certifi/wm/PJ2018031601.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;certification-10&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!--娓╅Θ鎻愮ずbegin--&gt;
+  &lt;div class=&quot;footer-hint&quot;&gt;
+    &lt;div class=&quot;footer-hint-bg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;footer-hint-text&quot;&gt;娓╅Θ鎻愮ず锛氱綉璐锋湁椋庨櫓  鍑哄€熼渶璋ㄦ厧锛屽巻鍙层€侀娴嬪洖鎶ョ巼涓嶄唬琛ㄥ疄闄呭洖鎶ョ巼銆?/div&gt;
+    
+  &lt;/div&gt;
+  &lt;!--娓╅Θ鎻愮ずend--&gt;
+&lt;/div&gt;
+&lt;!--椤佃剼end--&gt;
+
+&lt;!--杩斿洖椤堕儴--&gt;
+&lt;div class=&quot;back_to_top&quot; id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#top&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;!--鍦ㄧ嚎瀹㈡湇start--&gt;
+&lt;div class=&quot;online-kefu&quot;&gt;&lt;a onclick=&quot;window.open(&apos;http://36.7.134.99:8088/chatOnline/business/chatOnline/talk.jsp?bid=1464600013434&apos;,&apos;_blank&apos;,&apos;toolbar=no, location=no, directories=no, status=no, menubar=yes, scrollbars=no, resizable=no, copyhistory=no, width=500, height=500&apos;)&quot; href=&quot;javascript:void(0);&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;!--瀹㈡湇鎺ラ€氬悗缁檃杩藉姞鏍峰紡&quot;on&quot;鏉ユ浛鎹㈠浘鐗?-&gt;
+&lt;!--鍦ㄧ嚎瀹㈡湇end--&gt;
+&lt;!--娲诲姩begin--&gt;
+&lt;div class=&quot;layer-body&quot; id=&quot;huodongLayer&quot; style=&quot;width:749px; height:429px; margin:-215px 0 0 -418px; border-radius:0px; background:none;display: none;&quot;&gt;
+  &lt;a href=&quot;javascript:void(0)&quot; class=&quot;layer-close-2&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.jinxin99.cn/webPage/activity/twoanniversaryrush.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/webPage/index/images/g2gw.png&quot; height=&quot;429&quot; width=&quot;749&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;!--娲诲姩end--&gt;
+&lt;!--鏀剁泭璁＄畻鍣╞egin--&gt;
+&lt;div id=&quot;calculator&quot;&gt;&lt;/div&gt;
+&lt;!--鏀剁泭璁＄畻鍣╡nd--&gt;
+&lt;!--椤靛熬end--&gt;
+&lt;div id=&quot;secKillTime&quot; style=&quot;display:none;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var isReadClick3 = 0;
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement(&quot;script&quot;);
+        hm.src = &quot;//hm.baidu.com/hm.js?40c2250493aead29a39f86454af0e8c8&quot;;
+        var s = document.getElementsByTagName(&quot;script&quot;)[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+
+    /* L start */
+    var requestUrl = window.location.href;
+    var arrsparm = new Array();
+    arrsparm=requestUrl.split(&quot;?&quot;);
+    var flag = 0;
+    for(var i=0;i&lt;arrsparm.length;i++){
+        if(arrsparm[i]==&quot;pc&quot;){
+            flag=1;
+        }
+    }
+    var browser={
+        versions:function(){
+            var u = navigator.userAgent, app = navigator.appVersion;
+            return {
+                trident: u.indexOf(&apos;Trident&apos;) &gt; -1, //IE鍐呮牳
+                presto: u.indexOf(&apos;Presto&apos;) &gt; -1, //opera鍐呮牳
+                webKit: u.indexOf(&apos;AppleWebKit&apos;) &gt; -1, //鑻规灉銆佽胺姝屽唴鏍?
+                gecko: u.indexOf(&apos;Gecko&apos;) &gt; -1 &amp;&amp; u.indexOf(&apos;KHTML&apos;) == -1, //鐏嫄鍐呮牳
+                mobile: !!u.match(/AppleWebKit.*Mobile/) || !!u.match(/Windows Phone/) || !!u.match(/Android/) || !!u.match(/MQQBrowser/),
+                ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/), //ios缁堢
+                android: u.indexOf(&apos;Android&apos;) &gt; -1 , //android缁堢鎴栬€卽c娴忚鍣?
+                iPhone: u.indexOf(&apos;iPhone&apos;) &gt; -1 , //鏄惁涓篿Phone鎴栬€匭QHD娴忚鍣?
+                iPad: u.indexOf(&apos;iPad&apos;) &gt; -1, //鏄惁iPad
+                webApp: u.indexOf(&apos;Safari&apos;) == -1 //鏄惁web搴旇绋嬪簭锛屾病鏈夊ご閮ㄤ笌搴曢儴
+            };
+        }()
+    }
+    if((browser.versions.mobile || browser.versions.iPhone || browser.versions.iPad || browser.versions.android) &amp;&amp; flag==0){
+        window.location.href = &quot;http://m.jinxin99.cn&quot;; //鎵嬫満绔渶瑕佽闂甴5椤甸潰
+    }
+
+    /* L end */
+
+    $(document).ready(function(){
+        // 澶撮儴smart骞垮憡;
+        /* 	$(&quot;#miaosha .bn-close&quot;).click(function(){
+         $(this).parent().parent().animate({height:&quot;0px&quot;},600);
+         });
+         */	//setInterval(&quot;myInterval()&quot;,5000);//1000涓?绉掗挓
+        record();
+    });
+
+    function myInterval()
+    {
+        //if($(&quot;#miaosha&quot;).css(&quot;background-image&quot;).indexOf(&quot;banner-smart.png&quot;)&gt;=0){
+        //$(&quot;#miaosha&quot;).css(&quot;background&quot;,&quot;#037F7D url(webPage/index/images/jinzhi.jpg) no-repeat center 0px&quot;);
+        //$(&quot;#goto&quot;).attr(&quot;href&quot;,&quot;javascript:goJinzhi();&quot;);
+        //}else{
+        //$(&quot;#miaosha&quot;).css(&quot;background&quot;,&quot;#037F7D url(webPage/index/images/banner-smart.png) no-repeat center 0px&quot;);
+        //$(&quot;#goto&quot;).attr(&quot;href&quot;,&quot;javascript:goBid(&apos;borrowid&apos;,&apos;&apos;);&quot;);
+        //}
+    }
+    function goJinzhi(){
+        window.location.href = &quot;/webPage/kewosi/robots.html&quot;;
+    }
+    function record(){
+        $.ajax({
+            type: &quot;POST&quot;,
+            url:&quot;/user/recordZH.do&quot;,
+            async: false
+        });
+    }
+
+    $(document).ready(function(){
+        /**鍔犺浇閲戝厓瀹濊鍒?/
+        loadGoldIngotDetail();
+        //鍔犺浇杞挱鍥?
+        loadCarouselPicture();
+        //娲诲姩寮瑰眰
+        showActivity();
+    });
+    //杞挱鍥?
+    function loadCarouselPicture(){
+        $.post(&quot;/loans/Picture.do&quot;,&quot;&quot;,function(data){
+            if(data != null ){
+                if(data.isflag == &quot;1&quot;){
+                    var obj1 = JSON.parse(data.data);
+                    if(obj1 != null){
+                        var liStr = &quot;&quot;;
+                        for(var i=0;i&lt;=obj1.length-1;i++){
+                            liStr+=&quot;&lt;li data-opacity=&apos;0.2&apos; style=&apos;display: none; background: url(&quot;;
+                            liStr+=obj1[i].imgAddr;
+                            liStr+=&quot;) 50% 50% no-repeat;&apos;&gt;&lt;a href=&apos;&quot;;
+                            liStr+=obj1[i].linkedUrl;
+                            liStr+=&quot;&apos; target=&apos;_blank&apos;&gt;&lt;/a&gt;&lt;/li&gt;&quot;;
+                            liStr+=&quot;   &quot;;
+                        }
+                        $(&quot;#slider&quot;).html(liStr);
+                    }
+                    //鍒濆鍖栬疆鎾浘
+                    slideSwitch();
+                }
+            }
+        });
+    }
+    //鍏抽棴娲诲姩寮惧眰
+    $(&quot;#huodongLayer .layer-close-2&quot;).click(function(){
+        $(this).parent().fadeOut();
+        $(&quot;.dialog-overlay&quot;).fadeOut();
+    });
+
+    function goBid(loanId,status){
+        if(loanId==&quot;borrowid&quot;){
+            loanId=$(&quot;#goldIngot_id&quot;).val();
+        }
+        var path =&quot;/webPage/ssl/wytz_tb.html?borrowid=&quot;+loanId;
+        popupCompleteindex(path,&quot;&quot;,&apos;0&apos;);
+    }
+    function goAutoBid(){
+        //popupCompleteindex(&quot;/ssl/cashbox/getAutomaticBid.do?pagetype=2&quot;,&quot;&quot;,&quot;0&quot;);
+    }
+    function goCreditor(creditNumber,type,status){
+        if(null!=creditNumber&amp;&amp;&quot;&quot;!=creditNumber)
+            window.location.href = &quot;/ssl/creditor.do?creditNumber=&quot;+creditNumber+&quot;&amp;type=&quot;+type+&quot;&amp;status=&quot;+status;
+    }
+
+
+    //鍊掕鏃剁浉鍏砵s
+    Number.pad2Str = function(n) {
+        return n &gt; 9 ? &apos;&apos; + n : &apos;0&apos; + n;
+    }
+
+    /**** 绉掓潃鍖哄嚱鏁皊tart****/
+    // 鍊掕鏃跺鏁板瓧鏂囨湰鎿嶄綔
+    function countdownCallback(e) {
+        switch (e.type) {
+            case &apos;start&apos;:
+                ticktack(this);
+                break;
+            case &apos;timing&apos;:
+                e.unit &gt; 0 &amp;&amp; ticktack(this);
+                break;
+            case &apos;stop&apos;:
+                break;
+        }
+
+        function ticktack(cd) {
+            var des = cd.domElements;
+            $(des.hours).text(Number.pad2Str(cd._hours));
+            $(des.minutes).text(Number.pad2Str(cd._minutes));
+            $(des.seconds).text(Number.pad2Str(cd._seconds));
+        }
+    }
+
+    var nowTime;
+    function secKillDisplay(effectiveTime,closeTime, _nowTime){
+        if(_nowTime &gt;= effectiveTime &amp;&amp; _nowTime &lt;= closeTime){
+            if($(&quot;.user-phone&quot;).text() != null &amp;&amp; $(&quot;.user-phone&quot;).text() != &apos;&apos;) {
+                $(&quot;.seckill-btn a&quot;).attr(&quot;href&quot;, &quot;javascript:goBid(&apos;&quot; + $(&quot;#sevenDay_id&quot;).text() + &quot;&apos;);&quot;).removeClass(&quot;seckill-end&quot;);
+                $(&quot;.seckill-btn a&quot;).text(&quot;绔嬪嵆绉掓潃&quot;);
+                
+            }else{
+                $(&quot;.seckill-btn a&quot;).attr(&quot;href&quot;, &quot;/webPage/ssl/login.html&quot;).removeClass(&quot;seckill-end&quot;);
+            }
+        }else{
+            $(&quot;.seckill-btn a&quot;).attr(&quot;href&quot;,&quot;javascript:void(0);&quot;).addClass(&quot;seckill-end&quot;);
+        }
+    }
+
+    function secKillControll() {
+        //绔嬪嵆绉掓潃鎺у埗
+        var effectiveTime = new Date($(&quot;#hzxx_time&quot;).text().split(&quot;@&quot;)[0]);
+        var closeTime = new Date($(&quot;#hzxx_time&quot;).text().split(&quot;@&quot;)[1]);
+        nowTime = new Date($(&quot;#hzxx_time&quot;).text().split(&quot;@&quot;)[2]);
+
+        $(&apos;.seckill&apos;).find(&apos;.countdown&apos;).countdown(countdownCallback);
+
+        secKillDisplay(effectiveTime, closeTime, nowTime);
+        setInterval(function () {
+            nowTime = new Date(nowTime.valueOf() + 1000);
+            secKillDisplay(effectiveTime, closeTime, nowTime);
+        }, 1000);
+    }
+
+    /**** 绉掓潃鍖哄嚱鏁皊tart****/
+
+    function loadGoldIngotDetail() {
+    	
+        $.post(&quot;/loans/index.do&quot;,&quot;&quot;,function(data){
+            $(&quot;#productArea&quot;).html(data);
+
+           // $(&quot;#hzxx_ljrs&quot;).text($(&quot;#hzxx_data&quot;).text().split(&quot;@&quot;)[0]);
+           // $(&quot;#hzxx_ljje&quot;).text($(&quot;#hzxx_data&quot;).text().split(&quot;@&quot;)[1]);
+            var _ms_ = $(&apos;.seckill&apos;).attr(&apos;data-deadline-ms&apos;);
+            $(&quot;#secKillTime&quot;).attr(&apos;data-deadline-ms&apos;, new Date(_ms_).getTime());
+            if($(&quot;.seckill-end&quot;).text()!=&apos;绉掓潃缁撴潫&apos;) {
+                secKillControll();
+            }
+            loadFullBid();
+        }); 
+        
+        $.ajax({
+		   type: &quot;POST&quot;,
+		   url: &quot;/infoDisclosureNew/getData.do&quot;,
+		   data: &quot;type=0&quot;,
+		   success: function(msg){
+		   var obj = eval(&apos;(&apos; + msg + &apos;)&apos;);
+		  	 var headDataObj=eval(&apos;(&apos; + obj[0].headData + &apos;)&apos;);
+		  	 
+		  	 $(&quot;#hzxx_ljje&quot;).text(   formatNumber(toDecimal2(headDataObj[0].value))       );
+		  	 $(&quot;#hzxx_ljrs&quot;).text(  formatNumber(headDataObj[3].value)  );
+		   }
+		});
+        
+        function toDecimal2(x) {    
+		        var f = parseFloat(x);    
+		        if (isNaN(f)) {    
+		            return false;    
+		        }    
+		        var f = Math.round(x*100)/100;    
+		        var s = f.toString();    
+		        var rs = s.indexOf(&apos;.&apos;);    
+		        if (rs &lt; 0) {    
+		            rs = s.length;    
+		            s += &apos;.&apos;;    
+		        }    
+		        while (s.length &lt;= rs + 2) {    
+		            s += &apos;0&apos;;    
+		        }    
+		        return s;    
+   		 }    
+   		 
+   		 function formatNumber(num) {
+		    if (!/^(\+|-)?(\d+)(\.\d+)?$/.test(num)) {
+		        return num;
+		    }
+		    var a = RegExp.$1, b = RegExp.$2, c = RegExp.$3;
+		    var re = new RegExp(&quot;(\\d)(\\d{3})(,|$)&quot;);
+		    while (re.test(b))   b = b.replace(re, &quot;$1,$2$3&quot;);
+		    return a + &quot;&quot; + b + &quot;&quot; + c;
+		}
+        
+        
+        
+        
+        
+        
+    }
+    function loadHotSb() {
+        $.post(&quot;/loans/HotSb.do&quot;,&quot;&quot;,function(data){
+            $(&quot;#hotSb&quot;).html(data);
+        });
+    }
+    function loadFullBid() {
+        $.post(&quot;/loans/fullbids.do&quot;,&quot;&quot;,function(data){
+            $(&quot;#fullGold_1&quot;).html(data);
+            loadArticlesInfo();
+        });
+    }
+
+    function loadArticlesInfo(){
+        $.post(&quot;/index/articals.do&quot;,&quot;&quot;,function(data){
+            $(&quot;#mtbdList&quot;).html(data);
+            loadaverageGlodRate();
+        });
+    }
+    function loadaverageGlodRate(){
+        $(&quot;#jinxin&quot;).addClass(&quot;current&quot;);
+    }
+
+    //鍒朵繚鐣?浣嶅皬鏁帮紝濡傦細2锛屼細鍦?鍚庨潰琛ヤ笂00.鍗?.00
+    function toDecimal2(x) {
+        var f = parseFloat(x);
+        if (isNaN(f)) {
+            return false;
+        }
+        var f = Math.round(x*100)/100;
+        var s = f.toString();
+        var rs = s.indexOf(&apos;.&apos;);
+        if (rs &lt; 0) {
+            rs = s.length;
+            s += &apos;.&apos;;
+        }
+        while (s.length &lt;= rs + 2) {
+            s += &apos;0&apos;;
+        }
+        return s;
+    }
+    $(&quot;.investBody dd&quot;).hover(function(){
+        $(this).css(&apos;background&apos;,&apos;#FCFCFC&apos;);
+    },function(){
+        $(this).css(&apos;background&apos;,&apos;#ffffff&apos;);
+    });
+
+    function timer(intDiff,id){
+        var stop = 0;
+        stop = window.setInterval(function(){
+            var day=0,
+                    hour=0,
+                    minute=0,
+                    second=0;//鏃堕棿榛樿鍊?
+            if(intDiff &gt;= 0){
+                hour = Math.floor(intDiff / (60 * 60));
+                minute = Math.floor(intDiff / 60) - (day * 24 * 60) - (hour * 60);
+                second = Math.floor(intDiff) - (day * 24 * 60 * 60) - (hour * 60 * 60) - (minute * 60);
+                if (minute &lt;= 9) minute = &apos;0&apos; + minute;
+                if (second &lt;= 9) second = &apos;0&apos; + second;
+                $(&apos;#hour_show_&apos;+id).html(Math.floor(hour/10)+&apos;&apos;+Math.floor(hour%10));
+                $(&apos;#minute_show_&apos;+id).html(Math.floor(minute/10)+&apos;&apos;+Math.floor(minute%10));
+                $(&apos;#second_show_&apos;+id).html(Math.floor(second/10)+&apos;&apos;+Math.floor(second%10));
+            }else{
+                $(&apos;#butn_&apos;+id).html(&quot;绔嬪嵆鎶曡祫&quot;);
+                $(&apos;#seckill_&apos;+id).hide();
+                $(&apos;.schedule_&apos;+id).show();
+                window.clearInterval(stop);
+            }
+            intDiff--;
+        }, 1000);
+    }
+    //1118娲诲姩寮瑰嚭start
+//     $(function(){
+//     	  //娲诲姩鎺ㄥ箍banner
+//     	  $(&quot;.dialog-overlay&quot;).show();
+//     	  $(&quot;.activity-baner&quot;).fadeIn();
+//     	  $(&quot;.activity-baner .banner-close&quot;).click(function(){
+//     	    $(this).parent().fadeOut();
+//     	    $(&quot;.dialog-overlay&quot;).fadeOut();
+//     	  });
+// 	})
+	//1118娲诲姩寮瑰嚭end
+    //娲诲姩寮瑰眰
+    function showActivity(){
+        var nowDate = new Date();
+        var startDate = new Date(&quot;2015/12/21 00:00:00&quot;);
+        var endDate = new Date(&quot;2016/01/08 23:59:59&quot;);
+        if(startDate.getTime()&lt;=nowDate.getTime()&amp;&amp;nowDate.getTime()&lt;=endDate.getTime()){
+            var name = null;//$.cookie(&quot;midsummer&quot;);
+            if(null==name){
+                //$.cookie(&apos;midsummer&apos;, &apos;activity&apos;, { expires:1});
+                $(&quot;#huodongLayer&quot;).fadeIn();
+                $(&quot;.dialog-overlay&quot;).show();
+                //setTimeout(function(){$(&quot;#huodongLayer&quot;).fadeOut();$(&apos;.dialog-overlay&apos;).fadeOut();},5000);
+            }
+        }
+    }
+    //鎸備欢start
+    $(window).on(&apos;resize&apos;, resize);
+    resize();
+    function resize(){
+        if(window.innerWidth &lt; 1550){
+            $(&quot;.loading_jinxinbao&quot;).addClass(&apos;loading_jinxinbao_reisze&apos;);
+        }
+        else{
+            $(&quot;.loading_jinxinbao&quot;).removeClass(&apos;loading_jinxinbao_reisze&apos;);
+        }
+    }
+    $(function(){
+        $(&quot;.loading_close a&quot;).click(function(){
+            $(&quot;.loading_jinxinbao&quot;).fadeOut();
+        })
+    });
+    //鎸備欢end
+    //JS鑾峰彇椤甸潰鍦板潃璇锋眰鍙傛暟
+    function getParam(paramName) {
+        paramValue = &quot;&quot;;
+        isFound = false;
+        if (this.location.search.indexOf(&quot;?&quot;) == 0 &amp;&amp; this.location.search.indexOf(&quot;=&quot;)&gt;1) {
+            arrSource = unescape(this.location.search).substring(1,this.location.search.length).split(&quot;&amp;&quot;);
+            i = 0;
+            while (i &lt; arrSource.length &amp;&amp; !isFound) {
+                if (arrSource[i].indexOf(&quot;=&quot;) &gt; 0) {
+                    if (arrSource[i].split(&quot;=&quot;)[0].toLowerCase()==paramName.toLowerCase()) {
+                        paramValue = arrSource[i].split(&quot;=&quot;)[1];
+                        isFound = true;
+                    }
+                }
+                i++;
+            }
+        }
+        return paramValue;
+    }
+    function _scroll() {
+        var ozs = getParam(&quot;ozs&quot;);
+        if (ozs==&quot;183210&quot;) {
+            $(&quot;html,body&quot;).animate({scrollTop:$(&quot;.groomBody&quot;).offset().top},1000)
+        }
+    }
+    _scroll();
+
+    function counter(loanId){
+        $.post(&quot;/ssl/counter.do?loaninfoId=&quot;+loanId+&quot;&amp;incomeType=1&quot;,function(data){
+            $(&quot;#calculator&quot;).html(data);
+            //鏄剧ず璁＄畻鍣ㄥ脊灞?
+            $(&quot;#dialog,.layer-calculator&quot;).fadeIn();
+            load();
+        });
+    }
+    function closeCO(){
+        $(&quot;#dialog&quot;).hide();
+        $(&quot;#earning&quot;).hide();
+        $(&apos;.errorFrame&apos;).hide();
+    }
+
+    //--浜岀淮鐮佸脊鍑哄眰end--
+    //鍝佺墝瀹ｄ紶鏀惰捣灞曞紑
+    $(&quot;#brand-up&quot;).click(function(){
+        if($(this).hasClass(&apos;brand-down&apos;)){
+            $(this).removeClass(&quot;brand-down&quot;);
+            $(this).next().stop().animate({ height: &apos;180px&apos;},500);
+        }else{
+            $(this).addClass(&quot;brand-down&quot;);
+            $(this).next().stop().animate({ height: &apos;0px&apos;},500);
+        }
+    });
+
+    
+   $(&quot;.toy .close&quot;).click(function(){ 
+	   $(&quot;.toy&quot;).fadeOut(); 
+   });
+   
+   $(function(){
+	   
+   });
+   var newUser =&apos;&apos;;
+   $(window).load(function(){
+	   
+	   var now = new Date().getTime();
+	   var oldTime = localStorage.getItem(&quot;oldTime&quot;); 
+	   //娲诲姩涓撳尯鎻愮ず
+	   //var actAreaTime = localStorage.getItem(&quot;actAreaTime&quot;);
+	   //var bithRedTime = localStorage.getItem(&quot;bithRedTime&quot;);
+		
+		//鐤媯818
+	    if(now &gt;= 1514044800000 &amp;&amp; now &lt;= 1514217599000){
+		   
+		   //test鐢?
+		   //localStorage.removeItem(&quot;oldTime&quot;);
+		   //localStorage.removeItem(&quot;bithRedTime&quot;);
+		   
+		   if(oldTime == null || oldTime == &quot;&quot;){ 
+			   $(&quot;.dialog-overlay,.christmas-layer&quot;).fadeIn();
+			   localStorage.setItem(&quot;oldTime&quot;, new Date().getDate());
+		   }else if(new Date().getDate() != oldTime){
+			   $(&quot;.dialog-overlay,.christmas-layer&quot;).fadeIn();
+			   localStorage.setItem(&quot;oldTime&quot;, new Date().getDate());
+		   }
+
+	   } 
+		
+		//娲诲姩涓撳尯姣忓ぉ鏄剧ず涓€娆?
+	   /* if(actAreaTime == null || actAreaTime == &quot;&quot;){ 
+		   $(&quot;.toy&quot;).fadeIn();
+		   localStorage.setItem(&quot;actAreaTime&quot;, new Date().getDate());
+	   }else if(new Date().getDate() != actAreaTime){
+		   $(&quot;.toy&quot;).fadeIn();
+		   localStorage.setItem(&quot;actAreaTime&quot;, new Date().getDate());
+	   } */
+	 //鐢熸棩绾㈠寘姣忓ぉ鏄剧ず涓€娆?
+	    if(newUser != null &amp;&amp; newUser!=&apos;&apos;){
+	    	 //if(bithRedTime == null || bithRedTime == &quot;&quot;){ 
+	    		 $.ajax({
+	    			   type : &quot;POST&quot;,
+	    				url : &quot;/birthdayRed/getBirthRedPacket.do&quot;,
+	    				data : {type : 3},
+	    				dataType:&quot;json&quot;,
+	    				success : function(data){  
+	    					if(data.errorCode == &apos;0&apos;){
+	    						 $(&quot;.dialog-overlay&quot;).fadeIn();
+	    						 $(&quot;.happy-to-you&quot;).fadeIn();
+	    				  		 //  localStorage.setItem(&quot;bithRedTime&quot;, new Date().getDate());
+	    					}else{
+	    						 $(&quot;#dialog&quot;).fadeOut();
+	    						$(&quot;.happy-to-you&quot;).fadeOut();	
+	    					}
+	    				}
+	    			   
+	    		   })
+	  		  
+	  	 /*   }else if(new Date().getDate() != bithRedTime){
+		  		 $.ajax({
+	  			   type : &quot;POST&quot;,
+	  				url : &quot;/birthdayRed/getBirthRedPacket.do&quot;,
+	  				dataType:&quot;json&quot;,
+	  				success : function(data){  
+	  					if(data.errorCode == &apos;0&apos;){
+	  						 $(&quot;.dialog-overlay&quot;).fadeIn();
+	  						 $(&quot;.happy-to-you&quot;).fadeIn();
+	  				  		  // localStorage.setItem(&quot;bithRedTime&quot;, new Date().getDate());
+	  					}else{
+	  						$(&quot;.dialog-overlay&quot;).fadeOut();
+	  						$(&quot;.happy-to-you&quot;).fadeOut();	
+	  					}
+	  				}
+	  			   
+	  		  	})
+	  	   } */
+    	}else{
+	  		 $(&quot;.happy-to-you&quot;).fadeOut();
+	  	}
+	   
+	    $(&quot;.christmas-layer .christmas-close&quot;).click(function(){
+		      $(this).parent().fadeOut();
+		      $(&quot;.dialog-overlay&quot;).fadeOut();
+		}); 
+	   
+	
+	  $(&quot;#btn_sendRed&quot;).click(function(){
+		 // debugger;
+		  if(isReadClick3 != 0){
+			 /*  $(&quot;#btn_sendRed&quot;).unbind(); */
+   		   return false;
+   	      }
+   	    isReadClick3 = 1;
+		  $.ajax({
+ 			   type : &quot;POST&quot;,
+ 			   data : {type : 1},
+ 				url : &quot;/birthdayRed/getBirthRedPacket.do&quot;,
+ 				dataType:&quot;json&quot;,
+ 				success : function(data){ 
+ 					//isReadClick3 = 0;
+ 					if(data.errorCode == &apos;0&apos;){
+ 						if(data.markingPerformance &lt;300000){
+ 							 $(&quot;.dialog-overlay&quot;).fadeIn();
+ 							 $(&quot;.happy-to-you&quot;).fadeOut();
+ 							$(&quot;#200Red&quot;).show();
+ 							sendRed(2);
+ 						}else{
+ 							window.location.href=&quot;/webPage/index/birthday.html&quot;
+ 						}
+ 						
+ 					}else{
+ 						$(&quot;.dialog-overlay&quot;).fadeOut();
+ 						 $(&quot;.happy-to-you&quot;).fadeOut();	
+ 					}
+ 				}
+ 			   
+ 		  	}) 
+		  
+		  
+	  })
+	  
+	   //娲诲姩鎺ㄥ箍banner
+	    var bannerImgWidth = $(&quot;.activity-baner img&quot;).width()/2;
+	    var bannerImgHeight = $(&quot;.activity-baner img&quot;).height()/2;
+	    $(&quot;.activity-baner&quot;).css({&quot;marginLeft&quot;:-bannerImgWidth,&quot;marginTop&quot;:-bannerImgHeight});
+	    $(&quot;.activity-baner .banner-close&quot;).click(function(){
+	      $(this).parent().fadeOut();
+	      $(&quot;.dialog-overlay&quot;).fadeOut();
+	    }); 
+   })
+   	function sendRed(source){
+		$.ajax({
+			   type : &quot;POST&quot;,
+				url : &quot;/birthdayRed/sendRedPacks.do&quot;,
+				data : &quot;type=&quot;+source,
+				dataType:&quot;json&quot;,
+				success : function(data){  
+					/* if(data.errorMessage == &quot;澶辫触&quot;){
+						
+					}else if(data.errorMessage == &quot;鎴愬姛&quot;){
+						
+					} */
+				},
+				 error: function() {
+                 },
+			   
+		   })
+	}
+   
+   //纭鏌ョ湅椋庨櫓绛夌骇閫傚悎鐨勪骇鍝?
+   $(&quot;#confirm,#toStart&quot;).click(function(){
+   		$(&quot;.riskDialog,#risk-layer&quot;).fadeOut();
+   		window.location.href=&quot;/webPage/cunguan/account/my-riskgrade.html&quot;;
+   });
+   $(&quot;#riskClose,.risk-layer #close,#lendMoney #toClose&quot;).click(function(){
+   	$(&quot;.riskDialog,#risk-layer,#togetScore,#lendMoney&quot;).fadeOut();
+   });
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    $(function(){
+
+          $(&quot;.not-use-btn&quot;).click(function(){
+               $(&quot;.dialog-overlay,.birthday-redpack-layer&quot;).fadeOut()
+          });
+          $(&quot;.happy-close&quot;).click(function(){
+   	       		$(&quot;.happy-to-you,.dialog-overlay&quot;).fadeOut();
+   	  		})
+    })
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/scroll.1.3.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/common/js/ipinyou.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+														<totalSize>50172</totalSize>
+														<timeStamp>2018-06-14 03:03:45</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+											<Request v='10'>
+												<ver>14</ver>
+												<id>8</id>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+												<timeoutEnabled>false</timeoutEnabled>
+												<Object>null</Object>
+												<targetWindow/>
+												<itemName/>
+												<documentation/>
+												<waitForPageToLoad>false</waitForPageToLoad>
+												<sourceLocation/>
+												<recordResponses>true</recordResponses>
+												<quiescenceTimeMs>500</quiescenceTimeMs>
+												<disabled>false</disabled>
+												<ignoreErrors>false</ignoreErrors>
+												<errorFilter/>
+												<Object>null</Object>
+												<host/>
+												<path>/index/articals.do</path>
+												<protocol/>
+												<resource/>
+												<targetFrame/>
+												<label/>
+												<headers/>
+												<multipartBoundary/>
+												<Object>null</Object>
+												<lenientSubrequestCount>false</lenientSubrequestCount>
+												<formCharset/>
+												<method>1</method>
+												<waitForSubRequests>false</waitForSubRequests>
+												<executionMode>1</executionMode>
+											</Request>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>514</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///D:/Program%20Files/Badboy/html/start.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>gb2312</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>17</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<warnings>2</warnings>
+											<maxResponseTime>715</maxResponseTime>
+											<averageResponseTime>715</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>21</id>
+												<Summary v='3'>
+													<played>1</played>
+													<succeeded>1</succeeded>
+													<warnings>2</warnings>
+													<maxResponseTime>715</maxResponseTime>
+													<averageResponseTime>715</averageResponseTime>
+												</Summary>
+												<childCount>1</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>18</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<warnings>2</warnings>
+															<maxResponseTime>715</maxResponseTime>
+															<averageResponseTime>715</averageResponseTime>
+														</Summary>
+														<childCount>2</childCount>
+														<ChildItems>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>19</id>
+																<description>无法获取未定义或 null 引用的属性“value” : line 105 char 11</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/webPage/ssl/login.html</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>20</id>
+																<description>无法获取未定义或 null 引用的属性“value” : line 105 char 11</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/webPage/ssl/login.html</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+														</ChildItems>
+														<timeMs>715</timeMs>
+														<size>10527</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+&lt;!-- no cache headers --&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot;/&gt;
+&lt;meta http-equiv=&quot;no-cache&quot;/&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;-1&quot;/&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache,no-store&quot;/&gt;
+&lt;!-- end no cache headers --&gt; 
+&lt;meta name=&quot;renderer&quot; content=&quot;webkit&quot;/&gt;
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=utf-8&quot;/&gt;
+&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;/&gt;
+&lt;meta name=&quot;google-site-verification&quot; content=&quot;oQXrGa_mTgxg7joO0himE0QuFeqOVmm-SDC1H2dzT4c&quot;/&gt;
+&lt;meta name=&quot;keywords&quot; content=&quot;閲戜俊缃戯紝閲戜俊锛岄噾淇¤储瀵?閲戝厓瀹濓紝閲戝厓瀹濓紝缃戠粶鐞嗚储锛屼釜浜虹悊璐紝鎶曡祫鐞嗚储锛孭2P鐞嗚储锛屼簰鑱旂綉閲戣瀺锛屾姇璧勭悊璐紝鍊烘潈杞锛岀悊璐紝缃戠粶璐锋锛屼釜浜鸿捶娆撅紝鐞嗚储鏈嶅姟锛岀綉璐凤紝灏忛璐锋锛岀綉缁滄姇铻嶈祫骞冲彴, 缃戠粶鐞嗚储,鍥哄畾鏀剁泭,100%鏈伅淇濋殰&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;&quot;/&gt;
+&lt;!-- &lt;title&gt;鐧诲綍-閲戜俊缃戯紝鐧惧厓杞绘澗鎶曘€佹敹鐩婂ぉ澶╂湁&lt;/title&gt; --&gt;
+&lt;title&gt;鐧诲綍閲戜俊缃?閲戜俊缃?涓撲笟鐨勪簰鑱旂綉閲戣瀺淇℃伅鏈嶅姟骞冲彴&lt;/title&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;favicon.ico&quot; /&gt;
+&lt;link href=&quot;../ssl/css20140521/style.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;
+&lt;script language=&quot;javascript&quot; src=&quot;../ssl/js/Keyboard.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script language=&quot;javascript&quot; src=&quot;../ssl/js/jquery-1.7.2.min.js&quot;&gt;&lt;/script&gt;
+&lt;script language=&quot;javascript&quot; src=&quot;../ssl/js/jQuery.md5.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/xmlHttpAjax.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/jquery.cookie.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/index.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/json2.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/includeNew1.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/trafficStatistics.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../ssl/js/placeholder.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
+.login-cnt .form-hint p {
+    color: #fa3e58;
+    padding: 0 10px;
+}
+.login-cnt .form-hint {
+    background: none repeat scroll 0 0 #fff9f9;
+    border: 1px solid #fa3d58;
+    height: 25px;
+    left: 84px;
+    line-height: 25px;
+    position: absolute;
+    top: 37px;
+}
+&lt;/style&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function checkemail(){
+	urlinfo=window.location.href; //鑾峰彇褰撳墠椤甸潰鐨剈rl 
+	len=urlinfo.length;//鑾峰彇url鐨勯暱搴?
+	offset=urlinfo.indexOf(&quot;?&quot;);//璁剧疆鍙傛暟瀛楃涓插紑濮嬬殑浣嶇疆 
+	newsidinfo=urlinfo.substr(offset,len)//鍙栧嚭鍙傛暟瀛楃涓?杩欓噷浼氳幏寰楃被浼尖€渋d=1鈥濊繖鏍风殑瀛楃涓?
+	newsids=newsidinfo.split(&quot;=&quot;);//瀵硅幏寰楃殑鍙傛暟瀛楃涓叉寜鐓р€?鈥濊繘琛屽垎鍓?
+	newsid=newsids[1];//寰楀埌鍙傛暟鍊?
+	if(newsid==&quot;timeout&quot;){
+		alert(&quot;閭缁戝畾宸茶秴鏃讹紝璇烽噸鏂扮粦瀹氾紒&quot;);
+	}
+}
+function getCookieVal (offset) {
+	var endstr = window.document.cookie.indexOf (&quot;;&quot;, offset);
+	if (endstr == -1) endstr = window.document.cookie.length;
+		return unescape(window.document.cookie.substring(offset, endstr));
+}
+function getCookie (name) {
+	var arg = name + &quot;=&quot;;
+	var alen = arg.length;
+	var clen = window.document.cookie.length;
+	var i = 0;
+	while (i &lt; clen) {
+		var j = i + alen;
+		if (window.document.cookie.substring(i, j) == arg) return getCookieVal (j);
+			i = window.document.cookie.indexOf(&quot; &quot;, i) + 1;
+			if (i == 0) break;
+		}
+	return null;
+}
+
+	$(document).ready(function() {
+		/**娓呴櫎娴忚鍣ㄧ紦瀛?/
+		/* jQuery.ajaxSetup ({cache:false}); 娓呯紦瀛?/
+		var name = getCookie(&quot;username&quot;);
+		if(name != null){
+			document.getElementById(&apos;name_ID&apos;).value = name;
+		}
+		jQuery(&apos;input[placeholder]&apos;).placeholder();
+	});
+	$(document).keyup(function(event){
+		if(event.keyCode == 13){
+			//$(&quot;#loginId&quot;).trigger(&quot;click&quot;);
+			Login();
+		}
+	})
+	$(function(){
+		$.cookie(&apos;jinzhi&apos;, null);
+		checkemail();
+		$(&quot;#name_ID&quot;).focus(function(){});
+		$.post(&quot;../../ssl/exit.do&quot;,function(data){
+		},&quot;text&quot;);
+        
+        $.ajax({
+ 		   type: &quot;POST&quot;,
+ 		   url: &quot;/infoDisclosureNew/getData.do&quot;,
+ 		   data: &quot;type=0&quot;,
+ 		   success: function(msg){
+ 		   var obj = eval(&apos;(&apos; + msg + &apos;)&apos;);
+ 		  	 var headDataObj=eval(&apos;(&apos; + obj[0].headData + &apos;)&apos;);
+         	$(&quot;#gold&quot;).text(  formatNumber(toDecimal2(headDataObj[0].value))        );
+        	$(&quot;#user&quot;).text(   formatNumber(headDataObj[3].value) );
+ 		  	 
+ 		   }
+ 		});
+        
+        $.ajax({
+ 		   type:&quot;POST&quot;,
+ 		   url:&quot;../../ssl/getReferee.do&quot;,
+ 		   dataType: &quot;text&quot;,
+ 		   async: false,
+ 		   success: function(data){
+ 			   if(&quot;&quot; != data){
+ 				   var params = data.split(&quot;,&quot;);
+ 				   if(&quot;1&quot;==params[2]){
+ 	 				   $(&quot;#refereeText&quot;).html(&quot;鎮ㄥソ锛屾杩庢偍閫氳繃鎮ㄧ殑濂藉弸&lt;span style=&apos;margin:0px 5px; color:#f58711;&apos;&gt;&quot;+params[1]+&quot;&lt;/span&gt;鐨勯個璇峰姞鍏ラ噾淇＄綉&quot;);
+ 				   }
+ 			   }
+ 		   }
+});
+	});
+	function changeValid() {
+		document.getElementById(&quot;imgCode&quot;).src=document.getElementById(&quot;imgCode&quot;).src + &apos;?rand=new Date()&apos;;
+	}
+	function register(){
+		window.location.href = &quot;../ssl/Register.html&quot;;
+	}
+	function clearUserValid()
+	{
+		$(&quot;#userDiv&quot;).removeClass(&quot;form-hint&quot;);
+		$(&quot;#userP&quot;).text(&quot;&quot;);	
+	}
+	function clearPasswordValid()
+	{
+		$(&quot;#passwordDiv&quot;).removeClass(&quot;form-hint&quot;);
+		$(&quot;#passwordP&quot;).text(&quot;&quot;);	
+	}
+    function toDecimal2(x) {    
+        var f = parseFloat(x);    
+        if (isNaN(f)) {    
+            return false;    
+        }    
+        var f = Math.round(x*100)/100;    
+        var s = f.toString();    
+        var rs = s.indexOf(&apos;.&apos;);    
+        if (rs &lt; 0) {    
+            rs = s.length;    
+            s += &apos;.&apos;;    
+        }    
+        while (s.length &lt;= rs + 2) {    
+            s += &apos;0&apos;;    
+        }    
+        return s;    
+	 }    
+    
+		 function formatNumber(num) {
+			    if (!/^(\+|-)?(\d+)(\.\d+)?$/.test(num)) {
+			        return num;
+			    }
+			    var a = RegExp.$1, b = RegExp.$2, c = RegExp.$3;
+			    var re = new RegExp(&quot;(\\d)(\\d{3})(,|$)&quot;);
+			    while (re.test(b))   b = b.replace(re, &quot;$1,$2$3&quot;);
+			    return a + &quot;&quot; + b + &quot;&quot; + c;
+			}
+
+&lt;/script&gt;
+&lt;title&gt;鐧诲綍&lt;/title&gt;
+&lt;/head&gt;
+&lt;body style=&quot; background:#F8F8F8;&quot;&gt;
+&lt;!--椤靛ごstart--&gt;
+&lt;div id=&quot;header&quot;&gt;
+&lt;/div&gt;
+&lt;!--椤靛ごend--&gt;
+&lt;div id=&quot;bbslogout&quot; style = &quot;display:none;&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;login-body&quot;&gt;
+  &lt;div class=&quot;mainBox&quot;&gt;
+    &lt;div class=&quot;homeWap&quot;&gt;
+      &lt;div class=&quot;login-cnt clearfix&quot;&gt;
+        &lt;div class=&quot;login-form&quot;&gt;
+     &lt;h2&gt;娆㈣繋鐧诲綍&lt;/h2&gt;
+     &lt;h3 class=&quot;invite&quot; id=&quot;refereeText&quot;&gt;&lt;/h3&gt;&lt;!--閫氳繃鎺ㄨ崘娉ㄥ唽鐨勭敤鎴锋樉绀烘鍧?-&gt;
+     &lt;div class=&quot;login-box clearfix&quot; style=&quot;z-index:10;&quot;&gt;
+     &lt;label&gt;璐﹀彿&lt;/label&gt;
+     &lt;input id=&quot;name_ID&quot; name=&quot;form_name&quot; type=&quot;text&quot; class=&quot;input_text&quot; onBlur=&quot;if(!value){value=defaultValue;}&quot; onkeyup=&quot;clearUserValid()&quot; placeholder=&quot;鎵嬫満鍙风爜 /閭鍦板潃&quot; maxlength=&quot;40&quot;&gt;
+	 &lt;span&gt;&lt;/span&gt;
+	 &lt;div id=&quot;userDiv&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;p id=&quot;userP&quot;&gt;&lt;/p&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     &lt;div class=&quot;login-box clearfix&quot; style=&quot;z-index:8; padding-bottom:0px;&quot;&gt;
+     &lt;label&gt;瀵嗙爜&lt;/label&gt;
+     &lt;input id=&quot;passwordID&quot; name=&quot;form_password&quot; type=&quot;password&quot; placeholder=&quot;璇疯緭鍏ョ櫥褰曞瘑鐮? value=&quot;&quot; class=&quot;input_text&quot; onkeyup=&quot;clearPasswordValid()&quot; onBlur=&quot;if(!value){value=defaultValue;}&quot; maxlength=&quot;20&quot;&gt; 
+     &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+     &lt;div id=&quot;passwordDiv&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;p id=&quot;passwordP&quot;&gt;&lt;/p&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     &lt;div class=&quot;login-yzm&quot;&gt;
+     &lt;h3 id = &quot;showtishi&quot;  style=&apos;display:none&apos;&gt;鐧诲綍璐﹀彿鍜屽瘑鐮佷笉鍖归厤&lt;/h3&gt;
+     &lt;div id=&quot;showjymid&quot; class=&quot;yzm-box&quot; style=&apos;display:none&apos;&gt;
+	 &lt;input id=&quot;JYMID&quot; type=&quot;text&quot; value=&quot;&quot; class=&quot;yzm&quot; placeholder=&quot;鐐瑰嚮鍙充晶鍥剧墖鍙埛鏂?&gt;&lt;img src=&quot;../../manage/code.jsp&quot; alt=&quot;鍥剧墖鐪嬩笉娓咃紵鐐瑰嚮閲嶆柊寰楀埌楠岃瘉鐮? id=&quot;imgCode&quot; onclick=&quot;changeValid()&quot; style=&quot;cursor:pointer;border: 0; display: inline;vertical-align: middle;&quot; /&gt;   
+     &lt;/div&gt;
+     &lt;li id=&quot;showId&quot; style=&quot;color: red; font-size: 12px;  width: 222px; margin-top: 10px;margin-bottom: 10px; line-height: 18px;&quot;&gt;&lt;/li&gt;
+     &lt;/div&gt;
+     &lt;div class=&quot;forget-password&quot;&gt;蹇樿瀵嗙爜锛?&lt;a href=&quot;#&quot; onclick=&quot;location.href=&apos;back_password.jsp&apos;&quot;&gt;璇风偣姝ゆ壘鍥炲瘑鐮?/a&gt;&lt;/div&gt;
+     &lt;div class=&quot;remember&quot;&gt; &lt;input name=&quot;&quot; id=&quot;remName&quot; type=&quot;checkbox&quot; value=&quot;&quot; checked=&quot;checked&quot; /&gt;&amp;nbsp;璁颁綇鐧诲綍璐﹀彿&lt;/div&gt;
+     &lt;div class=&quot;bn-login&quot; id = &quot;loginId&quot;&gt;&lt;button onclick=&quot;Login()&quot;&gt;鐧?nbsp;&amp;nbsp;褰?/button&gt;&lt;/div&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;login-right&quot;&gt;
+          &lt;div class=&quot;login-boy&quot;&gt;&lt;/div&gt;
+          &lt;div class=&quot;top-txt&quot;&gt;&lt;/div&gt;
+          &lt;div class=&quot;currently&quot;&gt;骞冲彴鐢ㄦ埛鏁帮細&lt;span id = &quot;user&quot;&gt;19,317&lt;/span&gt;浣嶏紝绱鎴愪氦棰濓細 &lt;span id = &quot;gold&quot;&gt;345,735,000&lt;/span&gt;鍏?/div&gt;
+          &lt;div class=&quot;bn-reg&quot; id=&quot;quickRegBtn&quot;&gt;
+            &lt;!-- &lt;a href = &quot;Register.html&quot;&gt;&lt;button&gt;椹笂娉ㄥ唽&lt;/button&gt;&lt;/a&gt; --&gt;
+            &lt;button onclick=&quot;location.href=&apos;Register.html&apos;&quot;&gt;椹笂娉ㄥ唽&lt;/button&gt;
+          &lt;/div&gt;
+           &lt;ul class=&quot;clearfix&quot;&gt;
+            &lt;li&gt;&lt;i&gt;&lt;/i&gt;
+              &lt;h3&gt;浼橀€夎鍒?/h3&gt;
+              &lt;p&gt;鍘嗗彶骞村寲鍥炴姤鐜?span&gt;11%&lt;/span&gt;&lt;br /&gt;
+                鍑哄€熷懆鏈?span&gt;1-12鏈?/span&gt;鐏垫椿閫夋嫨&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li class=&quot;jpsb&quot;&gt;&lt;i&gt;&lt;/i&gt;
+              &lt;h3&gt;浼樿川鍊熸&lt;/h3&gt;
+              &lt;p&gt;鍑哄€熷懆鏈熺煭&lt;br /&gt;
+                瀹夊叏璁″垝&lt;/p&gt;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--椤佃剼start--&gt;
+&lt;div id=&quot;footer&quot;&gt;
+&lt;/div&gt;
+&lt;!--椤佃剼end--&gt;
+&lt;script&gt;
+//JS鑾峰彇椤甸潰鍦板潃璇锋眰鍙傛暟
+function getParam(paramName) {
+	paramValue = &quot;&quot;;
+	isFound = false;
+	if (this.location.search.indexOf(&quot;?&quot;) == 0 &amp;&amp; this.location.search.indexOf(&quot;=&quot;)&gt;1) {
+		arrSource = unescape(this.location.search).substring(1,this.location.search.length).split(&quot;&amp;&quot;);
+		i = 0;
+		while (i &lt; arrSource.length &amp;&amp; !isFound) {
+			if (arrSource[i].indexOf(&quot;=&quot;) &gt; 0) {
+				if (arrSource[i].split(&quot;=&quot;)[0].toLowerCase()==paramName.toLowerCase()) {
+					paramValue = arrSource[i].split(&quot;=&quot;)[1];
+					isFound = true;
+				}
+			}
+			i++;
+		}
+	}
+   return paramValue;
+}
+function fromActivityReg () {
+	var fromWhichActivity = getParam(&quot;activity&quot;);
+	if (fromWhichActivity !=&quot;&quot;) {
+		var html = &quot;&lt;button onclick=\&quot;location.href=&apos;Register.html?activity=&quot;+fromWhichActivity+&quot;&apos;\&quot;&gt;椹笂娉ㄥ唽&lt;/button&gt;&quot;;
+		$(&quot;#quickRegBtn&quot;).html(html);
+	}
+}
+fromActivityReg();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+														<totalSize>10527</totalSize>
+														<timeStamp>2018-06-14 03:04:02</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/webPage/ssl/login.html</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: http://emul3.jinxinying.com:8085/
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>utf-8</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>28</id>
+										<Summary v='3'>
+											<maxResponseTime>0</maxResponseTime>
+											<averageResponseTime>0</averageResponseTime>
+										</Summary>
+										<childCount>4</childCount>
+										<ChildItems>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>29</id>
+												<name>account</name>
+												<value>17800000006</value>
+												<sendEquals>true</sendEquals>
+												<method>2</method>
+											</Parameter>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>30</id>
+												<name>pass</name>
+												<value>003d81296cbed643579b24d1cf6c907c</value>
+												<sendEquals>true</sendEquals>
+												<method>2</method>
+											</Parameter>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>31</id>
+												<name>JYMID</name>
+												<value/>
+												<sendEquals>true</sendEquals>
+												<method>2</method>
+											</Parameter>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>32</id>
+												<name>referrer</name>
+												<value/>
+												<sendEquals>true</sendEquals>
+												<method>2</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/ssl/login.do</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers/>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset/>
+										<method>2</method>
+										<waitForSubRequests>false</waitForSubRequests>
+										<executionMode>1</executionMode>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>33</id>
+										<Summary v='3'>
+											<maxResponseTime>0</maxResponseTime>
+											<averageResponseTime>0</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>34</id>
+												<name>myTime</name>
+												<value>1528945454181</value>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/user/getMember.do</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers/>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset/>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+										<executionMode>1</executionMode>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>35</id>
+										<Summary v='3'>
+											<maxResponseTime>0</maxResponseTime>
+											<averageResponseTime>0</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>36</id>
+												<name>myTime</name>
+												<value>1528945454181</value>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/user/cashbox/myMessages.do</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers/>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset/>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+										<executionMode>1</executionMode>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>39</id>
+										<Summary v='3'>
+											<played>1</played>
+											<succeeded>1</succeeded>
+											<warnings>2</warnings>
+											<maxResponseTime>932</maxResponseTime>
+											<averageResponseTime>932</averageResponseTime>
+										</Summary>
+										<childCount>2</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>44</id>
+												<Summary v='3'>
+													<played>1</played>
+													<succeeded>1</succeeded>
+													<warnings>2</warnings>
+													<maxResponseTime>932</maxResponseTime>
+													<averageResponseTime>932</averageResponseTime>
+												</Summary>
+												<childCount>1</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>41</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<warnings>2</warnings>
+															<maxResponseTime>932</maxResponseTime>
+															<averageResponseTime>932</averageResponseTime>
+														</Summary>
+														<childCount>2</childCount>
+														<ChildItems>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>42</id>
+																<description>无法获取未定义或 null 引用的属性“totalBidAmount” : line 246 char 5</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/webPage/account/acc.html?myTime=1528945454181</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+															<ResponseError v='3'>
+																<ver>14</ver>
+																<id>43</id>
+																<description>无法获取未定义或 null 引用的属性“totalBidAmount” : line 246 char 5</description>
+																<category>Scripting Error</category>
+																<level>1</level>
+																<url>http://emul3.jinxinying.com:8085/webPage/account/acc.html?myTime=1528945454181</url>
+																<PlayContext v='1'>
+																	<variables>
+																	</variables>
+																</PlayContext>
+															</ResponseError>
+														</ChildItems>
+														<timeMs>932</timeMs>
+														<size>30695</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;/&gt;
+&lt;meta name=&quot;renderer&quot; content=&quot;webkit&quot;/&gt;
+&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=Edge&quot;/&gt;
+&lt;title&gt;閲戜俊缃?- CFCA璁よ瘉鐨勪簰鑱旂綉閲戣瀺鍏徃&lt;/title&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;../../static/common/imagesNew/favicon.ico&quot;/&gt;
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;../../static/account/css/cashbox/base.css&quot;/&gt;
+
+&lt;script language=&quot;javascript&quot; src=&quot;../common/js/jquery-1.7.2.min.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;../../static/common/js/includeNew.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/cunguan/common/js/trafficStatistics.js&quot;&gt;&lt;/script&gt; 
+ &lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/cunguan/common/js/index.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+var myTime = new Date().getTime();  
+
+var youxuanBool = false;
+var cunguanBool = false;
+var youxuanChart = 0;
+var cunguanChart = 0;
+
+$(function(){
+	xmlHttpAjaxTop(&apos;../account/accountMainMenu.jsp&apos;,&apos;subNav&apos;);
+	$(&quot;#overView&quot;).attr(&quot;class&quot;,&quot;on&quot;);
+	
+    // 鎻愮ず妗嗘樉绀洪殣钘?
+    $(&apos;.credenIcon a&apos;).hover(function(){
+        $(this).children(&apos;.credenPrompt&apos;).show();
+    },function(){
+        $(this).children(&apos;.credenPrompt&apos;).hide();
+    });
+    
+
+    
+    $(&apos;.credenBottom a&apos;).hover(function(){
+        $(this).children(&apos;.credenPrompt&apos;).show();
+    },function(){
+        $(this).children(&apos;.credenPrompt&apos;).hide();
+    });
+    
+    getIncrease();
+    getPageInfo();
+    
+});
+
+function getPageInfo(){
+	getUserInfo();
+	//璧勪骇鎬婚鍜屽彲鐢ㄤ綑棰?
+	getMyTotalMoney();
+	//浼橀€夎处鎴蜂俊鎭?
+	getGoodLoanInfo();
+	//瀛樼璐︽埛淇℃伅
+	getCunguanLoanInfo();
+	
+	//浼橀€夋渶鏂板嚭鍊熷拰鍥炴鏄庣粏
+	getNewLoanAndReplayOfYouxuan();	
+	
+	//瀛樼鏈€鏂板嚭鍊熷拰鍥炴鏄庣粏
+	getNewLoanAndReplayOfCunguan();
+	
+	updateLink();
+	
+};
+function getIncrease(){
+	$.ajax({
+		 type:&quot;get&quot;,				 
+		 url:&quot;../../account/getincrease.do?myTime=&quot;+myTime,
+	     async: false,
+		 success: function(data){
+			$(&quot;#icrease&quot;).text(data);
+		 }
+	});	 
+}
+//鑾峰彇鐢ㄦ埛淇℃伅 璐︽埛浣欓
+function getUserInfo(){
+	var completePercentage = &apos;0%&apos;;
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;../../user/cashbox/initUserInfo.do?myTime=&quot;+myTime,
+	     //async: false,
+		 success: function(data){
+			data=data.substring(data.indexOf(&quot;{&quot;),data.indexOf(&quot;}&quot;)+1);
+			data = eval(&apos;(&apos;+data+&apos;)&apos;);	
+		    /* if(data.isAutoBid == 1){
+		    	$(&quot;.credenState h3&quot;).html(&quot;&quot;);
+		    	$(&quot;.credenState h3&quot;).html(&apos;褰撳墠鐘舵€侊細&lt;em&gt;宸插紑鍚?/em&gt;&apos;);
+		    } */
+		    if(data.phone != &apos;&apos; &amp;&amp; data.phone != null){
+		      $(&quot;#credenPhone em&quot;).attr(&quot;class&quot;,&quot;on&quot;);
+		      $(&quot;#credenPhone div&quot;).html(&apos;鎵嬫満鍙风爜宸茬粦瀹?br/&gt;&apos;+(data.phone.substring(0,3))+&quot;****&quot;+(data.phone.substring(7,11))+&apos;&lt;i&gt;&lt;/i&gt;&apos;);
+		      $(&quot;#credenPhone&quot;).attr(&quot;href&quot;,&quot;#&quot;);
+		    }
+		    if(data.isOneLine != &apos;&apos; &amp;&amp; data.isOneLine != null &amp;&amp; data.isOneLine ==&apos;1&apos;){//xia
+		    	if(data.realName != &apos;&apos; &amp;&amp; data.realName != null){
+		    		var newname=data.realName;
+		    		if(data.realName.length&gt;14){
+		    			newname=newname.substring(0,13)+&quot;...&quot;;
+		    		  }
+		              $(&quot;.name a&quot;).text(newname);
+		              $(&quot;.name a&quot;).css(&quot;color&quot;,&quot;black&quot;);
+		              $(&quot;.name a&quot;).attr(&quot;href&quot;, null);
+		              $(&quot;.name a&quot;).attr(&quot;title&quot;, data.realName);
+		              if(data.isCardId == &quot;true&quot;){
+		            	  $(&quot;#credenRealName div&quot;).html(&apos;宸查€氳繃鍏畨閮?br/&gt;瀹炲悕璁よ瘉绯荤粺楠岃瘉&lt;i&gt;&lt;/i&gt;&apos;);
+		              }else{
+					 	  $(&quot;#credenRealName div&quot;).html(&apos;宸查€氳繃鍚庡彴瀹℃牳&lt;br/&gt;瀹炲悕璁よ瘉瀹屾垚璁よ瘉&lt;i&gt;&lt;/i&gt;&apos;);
+		              }
+					  $(&quot;#credenRealName em&quot;).attr(&quot;class&quot;,&quot;on&quot;);
+					  $(&quot;#credenRealName&quot;).attr(&quot;href&quot;, &quot;#&quot;);
+				 }else{
+					 if(data.isAccess == &apos;false&apos; || data.isRegister == &apos;false&apos;){
+						 $(&quot;#credenRealName .f_red&quot;).html(&apos;璇疯仈绯荤嚎涓嬮棬搴?br/&gt;鎻愪氦璁よ瘉瀹℃牳鏉愭枡&lt;i&gt;&lt;/i&gt;&apos;);
+					 }else{
+						 $(&quot;.name a&quot;).text(&quot;濮撳悕瀹℃牳涓?);
+						 $(&quot;.name a&quot;).attr(&quot;href&quot;, null);
+						 $(&quot;#credenRealName .f_red&quot;).html(&apos;璇疯仈绯荤嚎涓嬮棬搴?br/&gt;鎻愪氦璁よ瘉瀹℃牳鏉愭枡&lt;i&gt;&lt;/i&gt;&apos;);
+						 $(&quot;#credenRealName&quot;).attr(&quot;href&quot;, &quot;#&quot;);
+					 }
+				 }
+		    }else{
+		    	if(data.realName != &apos;&apos; &amp;&amp; data.realName != null){
+		    		var newname=data.realName;
+		    		if(data.realName.length&gt;14){
+		    			newname=newname.substring(0,13)+&quot;...&quot;;
+		    		  }
+		              $(&quot;.name a&quot;).text(newname);
+		              $(&quot;.name a&quot;).css(&quot;color&quot;,&quot;black&quot;);
+		              $(&quot;.name a&quot;).attr(&quot;href&quot;, null);
+		              $(&quot;.name a&quot;).attr(&quot;title&quot;, data.realName);
+					  $(&quot;#credenRealName div&quot;).html(&apos;宸查€氳繃鍏畨閮?br/&gt;瀹炲悕璁よ瘉绯荤粺楠岃瘉&lt;i&gt;&lt;/i&gt;&apos;);
+					  $(&quot;#credenRealName em&quot;).attr(&quot;class&quot;,&quot;on&quot;);
+					  $(&quot;#credenRealName&quot;).attr(&quot;href&quot;, &quot;#&quot;);
+				 }else if(data.isRegister != &apos;false&apos; &amp;&amp;  data.isAccess != &apos;false&apos;){
+					 $(&quot;.name a&quot;).text(&quot;濮撳悕瀹℃牳涓?);
+					 $(&quot;.name a&quot;).attr(&quot;href&quot;, null);
+					 $(&quot;#credenRealName .f_red&quot;).html(&apos;鑱旂郴瀹㈡湇瀹屾垚璁よ瘉&lt;i&gt;&lt;/i&gt;&apos;);
+					 $(&quot;#credenRealName&quot;).attr(&quot;href&quot;, &quot;#&quot;);
+				 }
+		    }
+		    if(data.email != &apos;&apos; &amp;&amp; data.email != null){
+		      $(&quot;#credenNews div&quot;).html(&apos;甯哥敤閭鍦板潃宸茬粦瀹?br/&gt;&apos;+data.email+&apos;&lt;i&gt;&lt;/i&gt;&apos;);	
+		      $(&quot;#credenNews em&quot;).attr(&quot;class&quot;,&quot;on&quot;);
+		      $(&apos;#credenPrompt&apos;).css(&quot;width&quot;,&quot;auto&quot;);
+		      var width_ = $(&apos;#credenPrompt&apos;).width();
+		      $(&apos;#credenPrompt&apos;).css({
+		            marginLeft : -width_/2
+		      });
+		      $(&quot;#credenNews&quot;).attr(&quot;href&quot;,&quot;#&quot;);
+		    }
+		    if(data.userName != &apos;&apos; &amp;&amp; data.userName != null)
+		      $(&quot;.credenName h4&quot;).text(data.userName);
+		    if(data.headPhoto != &apos;&apos; &amp;&amp; data.headPhoto != null){
+		    	$(&quot;#user_photo&quot;).attr(&quot;src&quot;,data.fileAccessPath+data.headPhoto);
+		    }else{
+		    	$(&quot;#user_photo&quot;).attr(&quot;src&quot;,&quot;../ssl/cashBoxImages/head.png&quot;);
+		    }
+			  
+		    $(&quot;.safe-box i&quot;).css(&quot;width&quot;,data.userLevel);
+		    $(&quot;.safe-box h3&quot;).text(data.notificationMessage);
+		    $(&quot;.safe-box h4&quot;).text(data.userLevel);
+		    $(&quot;.safe-box a&quot;).attr(&quot;href&quot;,data.notificationUrl);
+		    if(data.userLevel == &apos;100%&apos;)
+		    	$(&quot;.safe-box&quot;).hide();
+		    
+			 // 鎻愮ず妗嗗惊鐜畾浣?
+		    var credenSize = $(&apos;.credenPrompt&apos;).size();
+		    for(var i=0;i&lt;credenSize;i++) {
+		        var $this = $(&apos;.credenPrompt&apos;).eq(i);
+		        var $height = $this.outerHeight()+10;
+		        $this.width($this.width());
+		        var $width = ($this.outerWidth()-$this.parent().outerWidth())/2;
+		        $this.css({
+		            marginTop : -$height,
+		            marginLeft : -$width
+		        })
+		    };
+			
+		   
+		 }
+     });
+	
+	
+};
+
+//璧勪骇鎬婚鍜屽彲鐢ㄤ綑棰?
+function getMyTotalMoney(){
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/cunguan/account/getMyTotalMoney.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 
+			 data = eval(&apos;(&apos;+data+&apos;)&apos;);	
+			 
+			 $(&quot;#allMoneyTotal&quot;).html(formatmoney(data.totalAmount, 2));//璧勪骇鎬婚
+			 $(&quot;#avalibleMoneyTotal&quot;).html(formatmoney(data.amount, 2));//鍙敤浣欓
+			 
+		 }
+   });
+}
+
+//鑾峰彇浼橀€夎处鎴蜂俊鎭?
+function getGoodLoanInfo(){
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;../../user/cashbox/getFutureCapital.do?myTime=&quot;+myTime,
+		 data: &quot;jxbCapital=&quot;+$(&quot;#icrease&quot;).text(),
+	     //async: false,
+		 success: function(data){
+			 data=data.substring(data.indexOf(&quot;{&quot;),data.indexOf(&quot;}&quot;)+1);
+			 data = eval(&apos;(&apos;+data+&apos;)&apos;);	
+			 
+			 youxuanChart = Number(data.allMoney);
+			 
+			 $(&quot;#youxuanAccount&quot;).find(&quot;li&quot;).eq(0).html(formatmoney(data.allMoney, 2));//璧勪骇鎬婚
+			 $(&quot;#youxuanAccount&quot;).find(&quot;li&quot;).eq(1).html(formatmoney(data.interest, 2));//寰呮敹鏈噾
+			 $(&quot;#youxuanAccount&quot;).find(&quot;li&quot;).eq(2).html(formatmoney(data.futureInterest, 2));//寰呮敹鏀剁泭
+			 $(&quot;#youxuanAccount&quot;).find(&quot;li&quot;).eq(3).html(formatmoney(data.availableMondy, 2));//璐︽埛浣欓
+			 $(&quot;#youxuanAccount&quot;).find(&quot;li&quot;).eq(4).html(formatmoney(data.freezeMondy, 2));//鍐荤粨閲戦
+			 
+		 },
+		 complete:function(){
+			 youxuanBool = true;
+			 loadChart();
+	  	 }
+    });
+	
+};
+
+//瀛樼璐︽埛淇℃伅
+function getCunguanLoanInfo(){
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/cunguan/account/getPropertyJSON.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 
+			 data = eval(&apos;(&apos;+data+&apos;)&apos;);	
+			 
+			 data = data.myPropertySum;
+			 
+			 //console.log(data);
+			 
+			 var totalMoney = Number(data.totalBidAmount) + Number(data.bidDueInInterest) + Number(data.availableMoney) + Number(data.frozenMoney);
+			 totalMoney = Math.round((Number(totalMoney))*Math.pow(10,2))/Math.pow(10,2);
+			 cunguanChart = totalMoney;
+			 
+			 $(&quot;#cunguanAccount&quot;).find(&quot;li&quot;).eq(0).html(formatmoney(totalMoney, 2));//璧勪骇鎬婚
+			 $(&quot;#cunguanAccount&quot;).find(&quot;li&quot;).eq(1).html(formatmoney(data.totalBidAmount&lt;0?0:data.totalBidAmount, 2));//寰呮敹鏈噾
+			 $(&quot;#cunguanAccount&quot;).find(&quot;li&quot;).eq(2).html(formatmoney(data.bidDueInInterest&lt;0?0:data.bidDueInInterest, 2));//寰呮敹鏀剁泭
+			 $(&quot;#cunguanAccount&quot;).find(&quot;li&quot;).eq(3).html(formatmoney(data.availableMoney, 2));//璐︽埛浣欓
+			 $(&quot;#cunguanAccount&quot;).find(&quot;li&quot;).eq(4).html(formatmoney(data.frozenMoney, 2));//鍐荤粨閲戦
+			 
+		 },
+		 complete:function(){
+			 cunguanBool = true;
+			 loadChart();
+	  	 }
+   });
+}
+
+function torecharge(){
+	popupComplete(&quot;../../ssl/cashbox/getRecharge.do?myTime=&quot;+myTime,&apos;../..&apos;,&apos;1&apos;);
+}
+
+function towithdraw(){
+	popupComplete(&quot;../../ssl/cashbox/getBankAccountlist.do?myTime=&quot;+myTime,&apos;../..&apos;,&apos;2&apos;);
+}
+
+function updateLink(){
+	$(&quot;a&quot;).each(function(){
+		var hrefValue = $(this).attr(&apos;href&apos;);
+		if(hrefValue){
+			if(hrefValue.indexOf(&apos;.do&apos;)&gt;0){
+				if(!(hrefValue.indexOf(&apos;.do?&apos;)&gt;0)){
+					hrefValue = hrefValue+&quot;?myTime=&quot;+myTime;
+					$(this).attr(&apos;href&apos;,hrefValue);
+				}
+				if(hrefValue.indexOf(&apos;.do?p&apos;)&gt;0){
+					hrefValue = hrefValue+&quot;&amp;myTime=&quot;+myTime;
+					$(this).attr(&apos;href&apos;,hrefValue);
+				}
+			}
+			
+			if(hrefValue.indexOf(&apos;.html&apos;)&gt;0){
+				if(!(hrefValue.indexOf(&apos;.do?&apos;)&gt;0)){
+					hrefValue = hrefValue+&quot;?myTime=&quot;+myTime;
+					$(this).attr(&apos;href&apos;,hrefValue);
+				}
+			}
+			
+		}
+	});
+}
+
+
+function getNewLoanAndReplayOfYouxuan(){
+	//鏈€鏂板嚭鍊?
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/user/cashbox/MyInvestForJson.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 
+			 if(data.myinvestlist){
+				 
+				 if(data.myinvestlist.length == 0){
+					 $(&quot;#youxuanLoan&quot;).parent().find(&quot;div&quot;).show();
+					 $(&quot;#youxuanLoan&quot;).parent().find(&quot;a&quot;).hide();
+					 $(&quot;#youxuanLoan&quot;).hide();
+				 }else{
+					 $(&quot;#youxuanLoan&quot;).parent().find(&quot;div&quot;).hide();
+					 $(&quot;#youxuanLoan&quot;).parent().find(&quot;a&quot;).show();
+					 $(&quot;#youxuanLoan&quot;).show();
+				 }
+				 
+				$.each(data.myinvestlist,function(i, bean){
+					
+					//console.log(bean);
+					
+					var date = new Date(bean.interestStartDate).format(&quot;yyyy/MM/dd&quot;);
+					var productStatus = &quot;鐘舵€?;
+					
+					$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(0).html(bean.title);
+					$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(1).html(formatmoney(bean.bidMoney, 2));
+					
+					if(bean.termType == 0){
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(bean.loanLife + &quot;澶?);
+					}else{
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(bean.loanLife + &quot;涓湀&quot;);
+					}
+					
+					if(bean.interestStartDate == null){
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).html(&quot;--&quot;);
+					}else{
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).html(date);
+					}
+					
+					
+					if(bean.productStatus == 2){
+						productStatus = &quot;鍑哄€熶腑&quot;;
+					}else if(bean.productStatus == 4){
+						productStatus = &quot;宸叉弧鏍?;
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(4).addClass(&quot;full&quot;);
+					}else if(bean.productStatus == 6){
+						productStatus = &quot;杩樻涓?;
+						$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(4).addClass(&quot;repaying&quot;);
+					}else if(bean.productStatus == 7){
+						productStatus = &quot;娴佹爣&quot;;
+					}else if(bean.productStatus == 8){
+						productStatus = &quot;杩樻缁撴潫&quot;;
+					}
+					
+					$(&quot;#youxuanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(4).html(productStatus);
+				});
+			 }
+		 }
+  });
+	
+	//鍥炴鏄庣粏
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/user/cashbox/getIncomePlanForJson.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 
+			 if(data.incomePlanList){
+				 
+				 if(data.incomePlanList.length == 0){
+					 $(&quot;#youxuanRepay&quot;).parent().find(&quot;div&quot;).show();
+					 $(&quot;#youxuanRepay&quot;).parent().find(&quot;a&quot;).hide();
+					 $(&quot;#youxuanRepay&quot;).hide();
+				 }else{
+					 $(&quot;#youxuanRepay&quot;).parent().find(&quot;div&quot;).hide();
+					 $(&quot;#youxuanRepay&quot;).parent().find(&quot;a&quot;).show();
+					 $(&quot;#youxuanRepay&quot;).show();
+				 }
+				 
+				$.each(data.incomePlanList,function(i, bean){
+					
+					//console.log(bean);
+					
+					var date = new Date(bean.planDate).format(&quot;yyyy/MM/dd&quot;);
+					var productStatus = &quot;鐘舵€?;
+					
+					$(&quot;#youxuanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(0).html(bean.loanname);
+					$(&quot;#youxuanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(1).html(formatmoney(bean.incomeMoney, 2));
+					
+					$(&quot;#youxuanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(date);
+					
+					if(bean.status == &apos;宸茶繕娆?){
+						$(&quot;#youxuanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).addClass(&quot;full&quot;);
+					}
+					$(&quot;#youxuanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).addClass(&quot;full&quot;).html(bean.status);
+				});
+			 }
+		 }
+ 	});
+	
+}
+
+function getNewLoanAndReplayOfCunguan(){
+	//鏈€鏂板嚭鍊?
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/cunguan/account/getProjectListForJson.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 if(data.projectsList){
+				 
+				 if(data.projectsList.length == 0){
+					 $(&quot;#cunguanLoan&quot;).parent().find(&quot;div&quot;).show();
+					 $(&quot;#cunguanLoan&quot;).parent().find(&quot;a&quot;).hide();
+					 $(&quot;#cunguanLoan&quot;).hide();
+				 }else{
+					 $(&quot;#cunguanLoan&quot;).parent().find(&quot;div&quot;).hide();
+					 $(&quot;#cunguanLoan&quot;).parent().find(&quot;a&quot;).show();
+					 $(&quot;#cunguanLoan&quot;).show();
+				 }
+				 
+					$.each(data.projectsList,function(i, bean){
+						
+					
+					    //console.log(bean);
+					
+						var productName = bean.productFullName.toString();
+						//console.log(bean);
+						
+						//var date = new Date(Number(Number(bean.bidTime) + 24*60*60*1000)).format(&quot;yyyy/MM/dd&quot;);
+						  
+						
+						$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(0).html(bean.productFullName);
+						
+
+						
+						
+						$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(1).html(formatmoney(bean.bidMoney, 2));
+						if(productName.indexOf(&quot;淇¤鍒?)&gt; -1){
+								if(bean.statusString == &apos;澶勭悊涓?){
+									$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(&quot;--&quot;);
+								}
+					    }
+						if( bean.lifeOfLoanStr != null &amp;&amp; bean.lifeOfLoanStr !=&apos;null&apos;){
+							if(bean.transferFlag == 2){
+								$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(bean.lifeOfLoanStr + &quot;澶?);
+								
+							}else {
+								$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(bean.lifeOfLoanStr + &quot;涓湀&quot;);
+							}
+						}else{
+							$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(&quot;--&quot;);
+						}
+					
+						
+						if (bean.foundationDate != null ){
+						
+							var date = new Date(bean.foundationDate).format(&quot;yyyy/MM/dd&quot;);
+					
+							$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).html(date);
+						}else{
+							$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).html(&quot;--&quot;);
+						}
+						
+						$(&quot;#cunguanLoan tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(4).html(bean.statusString);
+					});
+				 }
+			 
+		 }
+ 	});
+	
+	//鍥炴鏄庣粏
+	$.ajax({
+		 type:&quot;POST&quot;,				 
+		 url:&quot;/cunguan/account/getIncomeDetailsForJson.do&quot;,
+	     //async: false,
+		 success: function(data){
+			 
+			 if(data.incomeDetailsList){
+				 if(data.incomeDetailsList.length == 0){
+					 $(&quot;#cunguanRepay&quot;).parent().find(&quot;div&quot;).show();
+					 $(&quot;#cunguanRepay&quot;).parent().find(&quot;a&quot;).hide();
+					 $(&quot;#cunguanRepay&quot;).hide();
+				 }else{
+					 $(&quot;#cunguanRepay&quot;).parent().find(&quot;div&quot;).hide();
+					 $(&quot;#cunguanRepay&quot;).parent().find(&quot;a&quot;).show();
+					 $(&quot;#cunguanRepay&quot;).show();
+				 }
+				 
+				$.each(data.incomeDetailsList,function(i, bean){
+					
+					if(bean.status == &apos;5&apos;){
+						var date = new Date(bean.repaymentDates).format(&quot;yyyy/MM/dd&quot;);
+					}else{
+						var date = new Date(bean.repaymentDate).format(&quot;yyyy/MM/dd&quot;);
+					}
+					
+					var productStatus = &quot;鐘舵€?;
+					
+					$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(0).html(bean.productName);
+					
+					if(bean.status == &apos;5&apos;){
+						$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(1).html(formatmoney(bean.repaymentInterest+bean.earlySettlement, 2));
+
+					}else{
+						$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(1).html(formatmoney(bean.repaymentInterest+bean.repaymentPrincipal, 2));
+
+					}
+					
+					$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(2).html(date);
+					
+					if(bean.status == 0){
+						productStatus = &quot;灏氭湭鍒版湡&quot;;
+					}else if(bean.status == 2){
+						$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).addClass(&quot;return&quot;);
+						productStatus = &quot;宸茶繕娆?;
+					}else if(bean.status == 3){
+						productStatus = &quot;閫炬湡鏈繕&quot;;
+					}else if(bean.status == 4){
+						productStatus = &quot;閫炬湡宸茶繕&quot;;
+					}else if(bean.status == 9){
+						productStatus = &quot;濂栧姳鏀剁泭&quot;;
+					}else if(bean.status == 5){
+						productStatus = &quot;鎻愬墠缁撴竻&quot;;
+					}else if(bean.status == 11){
+						if(bean.productName.indexOf(&apos;淇¤鍒?)&gt;-1){
+							productStatus = &quot;閫€鍑轰腑&quot;;
+						}else{
+							productStatus = &quot;灏氭湭鍒版湡&quot;;
+						}
+						
+					}
+					else if(bean.status ==12){
+						productStatus = &quot;閫€鍑轰腑&quot;;
+					}
+					else if(bean.status == 13){
+						productStatus = &quot;宸茶繕娆?;
+					}
+					
+					$(&quot;#cunguanRepay tbody&quot;).find(&quot;tr&quot;).eq(i).find(&quot;td&quot;).eq(3).html(productStatus);
+				});
+			 }
+		 }
+ 	});
+}
+
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/webPage/cunguan/common/js/common.js&quot;&gt;&lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body style=&quot;background-color: #f7f8fa;&quot;&gt;
+
+&lt;div id=&quot;header&quot;&gt;
+&lt;/div&gt;
+
+
+     &lt;!--浜岀骇瀵艰埅end--&gt;
+      &lt;div id=&quot;subNav&quot; class=&quot;subNav&quot;&gt;
+          
+
+     &lt;/div&gt; 
+     &lt;!--浜岀骇瀵艰埅end--&gt;
+     
+&lt;!--璐︽埛淇℃伅start--&gt;
+    &lt;div class=&quot;mainBox&quot;&gt;
+        &lt;div class=&quot;homeWap&quot;&gt;
+            &lt;div class=&quot;safe-box&quot;&gt;
+                &lt;h2&gt;鎮ㄥ綋鍓嶇殑璐︽埛瀹夊叏绛夌骇&lt;/h2&gt;&lt;span&gt;&lt;i style=&quot;width:80%;&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;h4&gt;80%&lt;/h4&gt;&lt;h3&gt;鎮ㄨ繕娌℃湁缁戝畾鐢靛瓙閭锛岀粦瀹氬悗鎴戜滑灏嗗悜鎮ㄥ彂閫侀」鐩敹鐩婅处鍗?/h3&gt;&lt;a href=&quot;&quot;&gt;绔嬪嵆鎻愬崌&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;credenMain clearfix&quot;&gt;
+                &lt;div class=&quot;dog-ear&quot;&gt;&lt;/div&gt;
+                &lt;div class=&quot;credenBasic&quot;&gt;
+                    &lt;div class=&quot;credenName&quot;&gt;
+                        &lt;!-- &lt;div class=&quot;head&quot;&gt;&lt;span&gt;&lt;img src=&quot;images/cashbox/head.png&quot; width=&quot;90&quot; height=&quot;90&quot;/&gt;&lt;/span&gt;&lt;a href=&quot;#&quot;&gt;涓婁紶澶村儚&lt;/a&gt;&lt;/div&gt; --&gt;
+                        &lt;div class=&quot;head&quot;&gt;&lt;span&gt;&lt;img id=&quot;user_photo&quot; src=&quot;../ssl/cashBoxImages/head.png&quot; width=&quot;90&quot; height=&quot;90&quot; onerror=&quot;this.src=&apos;../ssl/cashBoxImages/head.png&apos;&quot;/&gt;&lt;/span&gt;&lt;!-- --&gt;  
+                        &lt;a href=&quot;../../user/cashbox/getUploadImagesDetail.do&quot;&gt;涓婁紶澶村儚&lt;/a&gt; &lt;/div&gt;
+                        &lt;h3 class=&quot;name&quot;&gt;&lt;a href=&quot;../../ssl/cashbox/Name.do&quot;&gt;璇疯璇佸鍚?/a&gt;&lt;/h3&gt;
+                        &lt;h4&gt;&lt;/h4&gt;
+                        &lt;!-- &lt;div class=&quot;credenIcon&quot;&gt;
+                            &lt;a href=&quot;#&quot;&gt;&lt;em class=&quot;on&quot;&gt;楠岃瘉鍚庢坊鍔犳牱寮?on&lt;/em&gt;&lt;div class=&quot;credenPrompt&quot;&gt;鎵嬫満鍙风爜宸茬粦瀹?br/&gt;12345678900&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;div class=&quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;鎵嬫満鍙风爜灏氭湭缁戝畾&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/a&gt;
+                            &lt;a class=&quot;credenOwn&quot; href=&quot;#&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;div class=&quot;credenPrompt&quot;&gt;宸查€氳繃鍏畨閮?br/&gt;瀹炲悕璁よ瘉绯荤粺楠岃瘉&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;div class=&quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;灏氭湭瀹炲悕璁よ瘉&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/a&gt;
+                            &lt;a class=&quot;credenNews&quot; href=&quot;#&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;div class=&quot;credenPrompt&quot;&gt;甯哥敤閭鍦板潃宸茬粦瀹?br/&gt;abcdefghegk@gmail.com&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;div class=&quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;鐢靛瓙閭灏氭湭缁戝畾&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/a&gt;
+                        &lt;/div&gt; --&gt;
+                        &lt;div class=&quot;credenIcon&quot;&gt;
+                            &lt;a id=&quot;credenPhone&quot; href=&quot;../../ssl/cashbox/OldPhone.do&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;div class=&quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;鎵嬫満鍙风爜灏氭湭缁戝畾&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/a&gt;
+                            &lt;a id=&quot;credenRealName&quot; class=&quot;credenOwn&quot; href=&quot;../../ssl/cashbox/Name.do&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;div  class=&quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;灏氭湭瀹炲悕璁よ瘉&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;/a&gt;
+                            &lt;a id=&quot;credenNews&quot; class=&quot;credenNews&quot; href=&quot;../../ssl/cashbox/UserEmail.do&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;div  class=&quot;credenPrompt&quot; id = &quot;credenPrompt&quot;&gt;&lt;span class=&quot;f_red&quot;&gt;鐢靛瓙閭灏氭湭缁戝畾&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;i class=&quot;borderRight&quot;&gt;&lt;/i&gt;
+                     &lt;ul class=&quot;credenBalance&quot;&gt;
+                      &lt;li class=&quot;count&quot;&gt;璧勪骇鎬婚锛堝厓锛?/li&gt;
+                      &lt;li class=&quot;money&quot; id = &quot;allMoneyTotal&quot;&gt;&lt;/li&gt;
+                     &lt;/ul&gt;
+                    &lt;i class=&quot;borderRight&quot;&gt;&lt;/i&gt;
+                    &lt;ul class=&quot;credenBalance&quot;&gt;
+                      &lt;li class=&quot;count&quot;&gt;鍙敤浣欓锛堝厓锛?/li&gt;
+                      &lt;li class=&quot;money&quot; id = &quot;avalibleMoneyTotal&quot;&gt;&lt;/li&gt;
+                     &lt;/ul&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;credenBottom clearfix&quot;&gt;
+                    &lt;div class=&quot;c-b-left&quot; id=&quot;pie1&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;c-b-center&quot;&gt;
+                    	&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;&lt;/span&gt;閲戜俊浼橀€夎处鎴?/p&gt;
+                    	&lt;p class=&quot;sanbiao&quot;&gt;&lt;span class=&quot;red&quot;&gt;&lt;/span&gt;閲戜俊瀛樼璐︽埛&lt;i&gt;&lt;/i&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;c-b-right&quot;&gt;
+                    	&lt;ul class=&quot;c-b-right-1&quot;&gt;
+							&lt;li&gt;璧勪骇鎬婚锛堝厓锛?/li&gt;
+							&lt;li&gt;寰呮敹鏈噾锛堝厓锛?/li&gt;
+							&lt;li&gt;寰呮敹鏀剁泭锛堝厓锛?/li&gt;
+							&lt;li&gt;鍙敤浣欓锛堝厓锛?/li&gt;
+							&lt;li&gt;鍐荤粨閲戦锛堝厓锛?/li&gt;
+							&lt;li&gt;鍔犳伅瀹濓紙鍏冿級&lt;span class=&quot;only-phone&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+                   		&lt;ul class=&quot;c-b-right-1&quot;  id = &quot;youxuanAccount&quot;&gt;
+							&lt;li&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;/li&gt;
+							&lt;li id=&quot;icrease&quot;&gt;0.00&lt;/li&gt;
+							&lt;li&gt;&lt;a class=&quot;cz&quot; href=&quot;javascript:torecharge();&quot;&gt;鍏呭€?/a&gt;
+							&lt;a class=&quot;tx&quot; href=&quot;javascript:towithdraw();&quot;&gt;鎻愮幇&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+                  		&lt;div class=&quot;block&quot;&gt;&lt;/div&gt;
+                   		&lt;ul class=&quot;c-b-right-1&quot;  id = &quot;cunguanAccount&quot;&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;0.00&lt;/li&gt;
+							&lt;li&gt;&lt;a class=&quot;cz&quot; href=&quot;/cunguan/ssl/cashbox/rechargePage.do&quot;&gt;鍏呭€?/a&gt;
+							&lt;a class=&quot;tx&quot; href=&quot;/cunguan/ssl/cashbox/withdrawCashPage.do&quot;&gt;鎻愮幇&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;account-record&quot;&gt;
+            	&lt;div class=&quot;theme&quot;&gt;閲戜俊浼橀€夎处鎴?/div&gt;
+            	&lt;div class=&quot;rcd-tit rcd-tit-1&quot;&gt;
+            		&lt;a class=&quot;active&quot;&gt;鏈€鏂板嚭鍊?/a&gt;
+            		&lt;a&gt;鍥炴鏄庣粏&lt;/a&gt;
+            	&lt;/div&gt;
+            	&lt;div class=&quot;new-loan record&quot;&gt;
+            		&lt;div class=&quot;no-data&quot; style = &quot;display: none;&quot;&gt;&lt;/div&gt;
+            		&lt;table id = &quot;youxuanLoan&quot;&gt;
+						&lt;thead&gt;
+							&lt;td&gt;椤圭洰&lt;/td&gt;
+							&lt;td&gt;鍑哄€熼噾棰?/td&gt;
+							&lt;td&gt;鍑哄€熷懆鏈?/td&gt;
+							&lt;td&gt;璧锋伅鏃?/td&gt;
+							&lt;td&gt;鐘舵€?/td&gt;
+						&lt;/thead&gt;
+						&lt;tbody&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+						&lt;/tbody&gt;
+					&lt;/table&gt;
+					&lt;a class=&quot;btn-more&quot; href = &quot;/user/cashbox/MyInvest.do&quot;&gt;鏌ョ湅鏇村&lt;/a&gt;
+            	&lt;/div&gt;
+            	&lt;div class=&quot;hk-detail record&quot; style=&quot;display:none&quot;&gt;
+            		&lt;div class=&quot;no-data&quot; style = &quot;display: none;&quot;&gt;&lt;/div&gt;
+            		&lt;table  id = &quot;youxuanRepay&quot;&gt;
+						&lt;thead&gt;
+							&lt;td&gt;椤圭洰&lt;/td&gt;
+							&lt;td&gt;鍥炴閲戦&lt;/td&gt;
+							&lt;td&gt;鍥炴鏃ユ湡&lt;/td&gt;
+							&lt;td&gt;鐘舵€?/td&gt;
+						&lt;/thead&gt;
+						&lt;tbody&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+			              &lt;tr&gt;
+			                &lt;td&gt;&lt;/td&gt;
+			                &lt;td&gt;&lt;/td&gt;
+			                &lt;td&gt;&lt;/td&gt;
+			                &lt;td&gt;&lt;/td&gt;
+			              &lt;/tr&gt;
+						&lt;/tbody&gt;
+					&lt;/table&gt;
+					&lt;a class=&quot;btn-more&quot; href = &quot;/user/cashbox/getIncomePlan.do&quot;&gt;鏌ョ湅鏇村&lt;/a&gt;
+            	&lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;account-record account-record-last&quot;&gt;
+            	&lt;div class=&quot;theme&quot;&gt;閲戜俊瀛樼璐︽埛&lt;/div&gt;
+            	&lt;div class=&quot;rcd-tit rcd-tit-2&quot;&gt;
+            		&lt;a class=&quot;active&quot;&gt;鏈€鏂板嚭鍊?/a&gt;
+            		&lt;a&gt;鍥炴鏄庣粏&lt;/a&gt;
+            	&lt;/div&gt;
+            	&lt;div class=&quot;new-loan record&quot;&gt;
+            		&lt;div class=&quot;no-data&quot; style = &quot;display: none;&quot;&gt;&lt;/div&gt;
+            		&lt;table  id = &quot;cunguanLoan&quot;&gt;
+						&lt;thead&gt;
+							&lt;td&gt;椤圭洰&lt;/td&gt;
+							&lt;td&gt;鍑哄€熼噾棰?/td&gt;
+							&lt;td&gt;鍑哄€熷懆鏈?/td&gt;
+							&lt;td&gt;璧锋伅鏃?/td&gt;
+							&lt;td&gt;鐘舵€?/td&gt;
+						&lt;/thead&gt;
+						&lt;tbody&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+						&lt;/tbody&gt;
+					&lt;/table&gt;
+					&lt;a class=&quot;btn-more&quot; href = &quot;/webPage/cunguan/account/jin-plan.html&quot;&gt;鏌ョ湅鏇村&lt;/a&gt;
+            	&lt;/div&gt;
+            	&lt;div class=&quot;hk-detail record&quot; style=&quot;display:none;&quot;&gt;
+            		&lt;div class=&quot;no-data&quot; style = &quot;display: none;&quot;&gt;&lt;/div&gt;
+            		&lt;table id = &quot;cunguanRepay&quot;&gt;
+						&lt;thead&gt;
+							&lt;td&gt;椤圭洰&lt;/td&gt;
+							&lt;td&gt;鍥炴閲戦&lt;/td&gt;
+							&lt;td&gt;鍥炴鏃ユ湡&lt;/td&gt;
+							&lt;td&gt;鐘舵€?/td&gt;
+						&lt;/thead&gt;
+						&lt;tbody&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt; &lt;!-- class=&quot;return&quot; --&gt;
+							&lt;/tr&gt;
+							&lt;tr&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+								&lt;td&gt;&lt;/td&gt;
+							&lt;/tr&gt;
+						&lt;/tbody&gt;
+					&lt;/table&gt;
+					&lt;a class=&quot;btn-more&quot; href = &quot;/webPage/cunguan/account/sharing-plan.html&quot;&gt;鏌ョ湅鏇村&lt;/a&gt;
+            	&lt;/div&gt;
+            &lt;/div&gt;
+            
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;!--璐︽埛淇℃伅start--&gt;
+&lt;!--椤佃剼begin--&gt;
+&lt;div id=&quot;footer&quot;&gt;&lt;/div&gt;
+&lt;!--椤佃剼end--&gt;
+&lt;!--娓╅Θ鎻愮ず寮瑰眰begin--&gt;
+&lt;div class=&quot;dialog-overlay&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;layer-body layer-share-body&quot; id=&quot;layerShare&quot; style=&quot;display:none&quot;&gt;
+  &lt;div class=&quot;layer-top&quot;&gt;娓╅Θ鎻愮ず&lt;/div&gt;
+  &lt;div class=&quot;warm-tips&quot;&gt;&lt;i&gt;&lt;/i&gt;浜诧紝鍏呭€煎墠璇峰厛瀹屾垚瀹炲悕璁よ瘉&lt;/div&gt;
+  &lt;div class=&quot;success-btn&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;璁剧疆浜ゆ槗瀵嗙爜&lt;/a&gt;&lt;a href=&quot;#&quot; class=&quot;queding&quot;&gt;纭畾&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--娓╅Θ鎻愮ず寮瑰眰end--&gt;
+&lt;script src=&quot;js/echarts-all-3.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(function(){
+    //娓╅Θ鎻愮ず
+    var vHeight=$(&quot;#layerShare&quot;).innerHeight();
+    $(&quot;#layerShare&quot;).css({&quot;marginTop&quot;:-vHeight/2});
+    $(&quot;.success-btn a&quot;).click(function(){
+      $(&quot;.layer-share-body&quot;).fadeOut();
+      $(&quot;.dialog-overlay&quot;).fadeOut();
+    })
+	/*20170830 begin*/
+	$(&apos;.rcd-tit-1 a&apos;).click(function(){ 
+    	$(&quot;.rcd-tit-1 a&quot;).removeClass(&apos;active&apos;).eq($(&apos;.rcd-tit-1 a&apos;).index(this)).addClass(&apos;active&apos;); 
+        $(this).parent().parent().find(&apos;.record&apos;).hide().eq($(&apos;.rcd-tit-1 a&apos;).index(this)).show(); 
+    }); 
+	$(&apos;.rcd-tit-2 a&apos;).click(function(){ 
+    	$(&quot;.rcd-tit-2 a&quot;).removeClass(&apos;active&apos;).eq($(&apos;.rcd-tit-2 a&apos;).index(this)).addClass(&apos;active&apos;); 
+        $(this).parent().parent().find(&apos;.record&apos;).hide().eq($(&apos;.rcd-tit-2 a&apos;).index(this)).show(); 
+    }); 
+	  
+
+	  
+	 /*20170830 end*/ 
+	  
+  })
+  
+  
+
+  
+  function loadChart(){
+	  if(youxuanBool &amp;&amp; cunguanBool){
+		  var myChart = echarts.init(document.getElementById(&apos;pie1&apos;));
+			
+	        option = {
+	              tooltip: {
+	                  show: true,
+	                  trigger: &apos;item&apos;,
+	                  position:&quot;right&quot;,
+	                  formatter: function (params,ticket,callback) {
+	                       
+	                          if(params.percent &lt;= 0 ) {
+	                              params.percent = 50
+	                          }
+	                          
+	                          var res = params.name+&quot;: &quot;+params.value+&quot;鍏?(&quot;+params.percent+&quot;%)&quot;
+	                          return  res
+	                      }
+
+	                                 //formatter: &quot;Template formatter: &lt;br/&gt;{b}&lt;br/&gt;{a}:{c}&lt;br/&gt;{a1}:{c1}&quot;
+	                        //{b}: {c}鍏?({d}%)
+	              },
+	             
+	              series: [
+	                  {
+	                      name:&apos;&apos;,
+	                      type:&apos;pie&apos;,
+	                      radius: [&apos;72%&apos;, &apos;100%&apos;],
+	                      avoidLabelOverlap: false,
+	                      label: {
+	                          normal: {
+	                              show: false,
+	                              position: &apos;center&apos;
+	                          },
+	                          emphasis: {
+	                              show: false,
+	                              textStyle: {
+	                                  fontSize: &apos;30&apos;,
+	                                  fontWeight: &apos;bold&apos;
+	                              }
+	                          }
+	                      },
+	                      labelLine: {
+	                          normal: {
+	                              show: true
+	                          }
+	                      },
+	                      data:[
+	                           {value:youxuanChart, name:&apos;閲戜俊浼橀€夎处鎴?},
+	                          {value:cunguanChart, name:&apos;閲戜俊瀛樼璐︽埛&apos;}
+	                      ]
+	                  }
+	              ],
+	              animation:false,
+	              color:[&quot;#17a2d5&quot;,&quot;#fe6132&quot;]
+	          };
+
+	          myChart.setOption(option,true);
+	  }
+  }
+  
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+														<totalSize>30695</totalSize>
+														<timeStamp>2018-06-14 03:04:17</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>40</id>
+												<name>myTime</name>
+												<value>1528945454181</value>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host>emul3.jinxinying.com:8085</host>
+										<path>/webPage/account/acc.html</path>
+										<protocol>http</protocol>
+										<resource/>
+										<targetFrame/>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: http://emul3.jinxinying.com:8085/webPage/ssl/login.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>utf-8</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+								</ChildItems>
+								<timeoutEnabled>false</timeoutEnabled>
+								<Object>null</Object>
+								<targetWindow/>
+								<itemName/>
+								<documentation/>
+								<waitForPageToLoad>false</waitForPageToLoad>
+								<sourceLocation/>
+								<recordResponses>true</recordResponses>
+								<quiescenceTimeMs>500</quiescenceTimeMs>
+								<disabled>false</disabled>
+								<ignoreErrors>false</ignoreErrors>
+								<errorFilter/>
+								<Object>null</Object>
+								<name>Step 1</name>
+								<repetitions>1</repetitions>
+								<repeatType>1</repeatType>
+								<repeatVariable/>
+								<incrementAutomatically>true</incrementAutomatically>
+								<incrementAll>true</incrementAll>
+								<expanded>1</expanded>
+							</Step>
+						</ChildItems>
+						<timeoutEnabled>false</timeoutEnabled>
+						<Object>null</Object>
+						<targetWindow/>
+						<itemName/>
+						<documentation/>
+						<waitForPageToLoad>false</waitForPageToLoad>
+						<sourceLocation/>
+						<recordResponses>true</recordResponses>
+						<quiescenceTimeMs>500</quiescenceTimeMs>
+						<disabled>false</disabled>
+						<ignoreErrors>false</ignoreErrors>
+						<errorFilter/>
+						<Object>null</Object>
+						<title>Test 1</title>
+						<template/>
+						<expanded>1</expanded>
+					</TestItem>
+				</ChildItems>
+				<timeoutEnabled>false</timeoutEnabled>
+				<Object>null</Object>
+				<targetWindow/>
+				<itemName>Test Suite 1</itemName>
+				<documentation/>
+				<waitForPageToLoad>false</waitForPageToLoad>
+				<sourceLocation/>
+				<recordResponses>true</recordResponses>
+				<quiescenceTimeMs>500</quiescenceTimeMs>
+				<disabled>false</disabled>
+				<ignoreErrors>false</ignoreErrors>
+				<errorFilter/>
+				<Object>null</Object>
+				<expanded>1</expanded>
+			</SuiteItem>
+		</ChildItems>
+		<defaultHeaders>User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/7.0)
+Accept: image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-CN
+</defaultHeaders>
+		<itemName>Script.jmx.bx</itemName>
+		<documentation/>
+	</Script>
+</WebScript>
